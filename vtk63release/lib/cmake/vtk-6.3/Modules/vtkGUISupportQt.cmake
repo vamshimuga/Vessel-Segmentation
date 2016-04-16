@@ -1,0 +1,18 @@
+set(vtkGUISupportQt_LOADED 1)
+set(vtkGUISupportQt_DEPENDS "vtkCommonExecutionModel;vtkFiltersExtraction;vtkImagingCore;vtkInteractionStyle;vtkRenderingOpenGL")
+set(vtkGUISupportQt_LIBRARIES "vtkGUISupportQt")
+set(vtkGUISupportQt_INCLUDE_DIRS "${VTK_INSTALL_PREFIX}/include/vtk-6.3")
+set(vtkGUISupportQt_LIBRARY_DIRS "")
+set(vtkGUISupportQt_RUNTIME_LIBRARY_DIRS "${VTK_INSTALL_PREFIX}/lib")
+set(vtkGUISupportQt_WRAP_HIERARCHY_FILE "${CMAKE_CURRENT_LIST_DIR}/vtkGUISupportQtHierarchy.txt")
+set(VTK_QT_RCC_EXECUTABLE "")
+set(VTK_QT_MOC_EXECUTABLE "/Users/chuwa/Qt/5.5/clang_64/bin/moc")
+set(VTK_QT_UIC_EXECUTABLE "")
+set(VTK_QT_QMAKE_EXECUTABLE "/Users/chuwa/Qt/5.5/clang_64/lib/cmake/Qt5/Qt5Config.cmake")
+set(vtkGUISupportQt_EXCLUDE_FROM_WRAPPING 1)
+
+if(NOT Qt5Widgets_DIR)
+  set(Qt5Widgets_DIR "/Users/chuwa/Qt/5.5/clang_64/lib/cmake/Qt5Widgets")
+endif()
+find_package(Qt5Widgets REQUIRED QUIET)
+

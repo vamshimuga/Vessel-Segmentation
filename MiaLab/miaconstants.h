@@ -1,0 +1,16 @@
+#ifndef MIACONSTANTS_H
+#define MIACONSTANTS_H
+
+#ifndef MAX_FLOAT
+    #define MAX_FLOAT 3.4e+38
+#endif
+
+#ifndef E_PI
+    #define E_PI 3.1415926535897932384626433832795028841971693993751058209749445923078164062
+#endif
+
+#ifndef EPSD
+    #define EPSD 2.2204e-16
+#endif
+#endif // MIACONSTANTS_H
+

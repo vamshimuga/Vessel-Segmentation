@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="logo">resources/logo.png</file>
+        <file>resources/MIA.icns</file>
+        <file>resources/MIA.ico</file>
+        <file alias="pan">resources/pan.png</file>
+        <file alias="win">resources/win.png</file>
+        <file alias="zoom">resources/zoom.png</file>
+        <file alias="openCurveROI">resources/ROI_curve_open.png</file>
+        <file alias="zoomcur">resources/zoom_cursor.png</file>
+        <file alias="pancur">resources/pan_cursor.png</file>
+        <file alias="wincur">resources/win_cursor.png</file>
+    </qresource>
+</RCC>

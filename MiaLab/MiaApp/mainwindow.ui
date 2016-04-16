@@ -1,0 +1,3276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1204</width>
+    <height>892</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>800</width>
+    <height>600</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <property name="sizePolicy">
+    <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+     <horstretch>0</horstretch>
+     <verstretch>0</verstretch>
+    </sizepolicy>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <widget class="QToolBox" name="toolBox">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Maximum" vsizetype="Preferred">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>200</width>
+        <height>0</height>
+       </size>
+      </property>
+      <property name="baseSize">
+       <size>
+        <width>150</width>
+        <height>0</height>
+       </size>
+      </property>
+      <property name="currentIndex">
+       <number>6</number>
+      </property>
+      <widget class="QWidget" name="step1">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>200</width>
+         <height>457</height>
+        </rect>
+       </property>
+       <attribute name="label">
+        <string>Step 1: Loading Images</string>
+       </attribute>
+       <widget class="QToolButton" name="openButton">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>0</y>
+          <width>151</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Open Dataset</string>
+        </property>
+        <property name="popupMode">
+         <enum>QToolButton::InstantPopup</enum>
+        </property>
+        <property name="toolButtonStyle">
+         <enum>Qt::ToolButtonTextBesideIcon</enum>
+        </property>
+        <property name="arrowType">
+         <enum>Qt::NoArrow</enum>
+        </property>
+       </widget>
+       <widget class="QWidget" name="methodSelectionWidget" native="true">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>50</y>
+          <width>211</width>
+          <height>131</height>
+         </rect>
+        </property>
+        <widget class="QLabel" name="label">
+         <property name="geometry">
+          <rect>
+           <x>10</x>
+           <y>0</y>
+           <width>191</width>
+           <height>41</height>
+          </rect>
+         </property>
+         <property name="text">
+          <string>What operation do you want to run on this image? </string>
+         </property>
+         <property name="wordWrap">
+          <bool>true</bool>
+         </property>
+        </widget>
+        <widget class="QToolButton" name="chooseOperationButton">
+         <property name="geometry">
+          <rect>
+           <x>20</x>
+           <y>50</y>
+           <width>151</width>
+           <height>32</height>
+          </rect>
+         </property>
+         <property name="text">
+          <string>Choose Operations</string>
+         </property>
+         <property name="popupMode">
+          <enum>QToolButton::InstantPopup</enum>
+         </property>
+         <property name="toolButtonStyle">
+          <enum>Qt::ToolButtonTextBesideIcon</enum>
+         </property>
+         <property name="arrowType">
+          <enum>Qt::NoArrow</enum>
+         </property>
+        </widget>
+       </widget>
+       <widget class="QWidget" name="thresholdWidget" native="true">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>260</y>
+          <width>201</width>
+          <height>181</height>
+         </rect>
+        </property>
+        <widget class="QSlider" name="upperThresholdSlider_2">
+         <property name="geometry">
+          <rect>
+           <x>20</x>
+           <y>145</y>
+           <width>160</width>
+           <height>22</height>
+          </rect>
+         </property>
+         <property name="minimum">
+          <number>-1200</number>
+         </property>
+         <property name="maximum">
+          <number>2000</number>
+         </property>
+         <property name="value">
+          <number>500</number>
+         </property>
+         <property name="orientation">
+          <enum>Qt::Horizontal</enum>
+         </property>
+         <property name="tickPosition">
+          <enum>QSlider::TicksBelow</enum>
+         </property>
+         <property name="tickInterval">
+          <number>20</number>
+         </property>
+        </widget>
+        <widget class="QLabel" name="label_8">
+         <property name="geometry">
+          <rect>
+           <x>17</x>
+           <y>120</y>
+           <width>111</width>
+           <height>16</height>
+          </rect>
+         </property>
+         <property name="text">
+          <string>Upper Threshold</string>
+         </property>
+        </widget>
+        <widget class="QLabel" name="label_7">
+         <property name="geometry">
+          <rect>
+           <x>14</x>
+           <y>56</y>
+           <width>111</width>
+           <height>16</height>
+          </rect>
+         </property>
+         <property name="text">
+          <string>Lower Threshold</string>
+         </property>
+        </widget>
+        <widget class="QSlider" name="lowerThresholdSlider_2">
+         <property name="geometry">
+          <rect>
+           <x>20</x>
+           <y>76</y>
+           <width>160</width>
+           <height>22</height>
+          </rect>
+         </property>
+         <property name="minimum">
+          <number>-1200</number>
+         </property>
+         <property name="maximum">
+          <number>2000</number>
+         </property>
+         <property name="value">
+          <number>200</number>
+         </property>
+         <property name="orientation">
+          <enum>Qt::Horizontal</enum>
+         </property>
+         <property name="tickPosition">
+          <enum>QSlider::TicksBelow</enum>
+         </property>
+         <property name="tickInterval">
+          <number>20</number>
+         </property>
+        </widget>
+        <widget class="QSpinBox" name="upperThresholdSpin_2">
+         <property name="geometry">
+          <rect>
+           <x>140</x>
+           <y>115</y>
+           <width>57</width>
+           <height>25</height>
+          </rect>
+         </property>
+         <property name="minimum">
+          <number>-1200</number>
+         </property>
+         <property name="maximum">
+          <number>2000</number>
+         </property>
+         <property name="value">
+          <number>500</number>
+         </property>
+        </widget>
+        <widget class="QSpinBox" name="lowerThresholdSpin_2">
+         <property name="geometry">
+          <rect>
+           <x>140</x>
+           <y>51</y>
+           <width>57</width>
+           <height>25</height>
+          </rect>
+         </property>
+         <property name="minimum">
+          <number>-1200</number>
+         </property>
+         <property name="maximum">
+          <number>2000</number>
+         </property>
+         <property name="value">
+          <number>200</number>
+         </property>
+        </widget>
+        <widget class="QPushButton" name="nextstepBotton1">
+         <property name="geometry">
+          <rect>
+           <x>100</x>
+           <y>195</y>
+           <width>91</width>
+           <height>32</height>
+          </rect>
+         </property>
+         <property name="text">
+          <string>Next Step&gt;</string>
+         </property>
+        </widget>
+        <widget class="QLabel" name="label_11">
+         <property name="geometry">
+          <rect>
+           <x>10</x>
+           <y>17</y>
+           <width>191</width>
+           <height>31</height>
+          </rect>
+         </property>
+         <property name="text">
+          <string>Please give the threshold range</string>
+         </property>
+         <property name="wordWrap">
+          <bool>true</bool>
+         </property>
+        </widget>
+       </widget>
+       <widget class="QLabel" name="imageSummary">
+        <property name="geometry">
+         <rect>
+          <x>3</x>
+          <y>30</y>
+          <width>201</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>No input image.</string>
+        </property>
+        <property name="wordWrap">
+         <bool>true</bool>
+        </property>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="step2">
+       <property name="enabled">
+        <bool>true</bool>
+       </property>
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>200</width>
+         <height>457</height>
+        </rect>
+       </property>
+       <attribute name="label">
+        <string>Step 2: Defining Seeds</string>
+       </attribute>
+       <widget class="QPushButton" name="nextstepBotton2">
+        <property name="geometry">
+         <rect>
+          <x>100</x>
+          <y>520</y>
+          <width>101</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Next Step&gt;</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="prestepButton2">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>520</y>
+          <width>101</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>&lt;Pre Step</string>
+        </property>
+       </widget>
+       <widget class="listViewWithKeyBoardSupport" name="markerListView">
+        <property name="geometry">
+         <rect>
+          <x>30</x>
+          <y>90</y>
+          <width>151</width>
+          <height>111</height>
+         </rect>
+        </property>
+        <property name="focusPolicy">
+         <enum>Qt::WheelFocus</enum>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_2">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>0</y>
+          <width>191</width>
+          <height>61</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>To draw a seed region simply click and drag the mouse on any of 2D views</string>
+        </property>
+        <property name="wordWrap">
+         <bool>true</bool>
+        </property>
+       </widget>
+       <widget class="QCheckBox" name="showBlockerCheckBox">
+        <property name="geometry">
+         <rect>
+          <x>21</x>
+          <y>240</y>
+          <width>161</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>show blocking region</string>
+        </property>
+       </widget>
+       <widget class="QGroupBox" name="blockerGroupBox">
+        <property name="geometry">
+         <rect>
+          <x>8</x>
+          <y>260</y>
+          <width>191</width>
+          <height>221</height>
+         </rect>
+        </property>
+        <property name="title">
+         <string>Blocking Region</string>
+        </property>
+        <widget class="listViewWithKeyBoardSupport" name="stopMarkerListView">
+         <property name="geometry">
+          <rect>
+           <x>20</x>
+           <y>50</y>
+           <width>161</width>
+           <height>121</height>
+          </rect>
+         </property>
+         <property name="focusPolicy">
+          <enum>Qt::WheelFocus</enum>
+         </property>
+        </widget>
+        <widget class="QPushButton" name="seedButton">
+         <property name="geometry">
+          <rect>
+           <x>9</x>
+           <y>180</y>
+           <width>181</width>
+           <height>32</height>
+          </rect>
+         </property>
+         <property name="text">
+          <string>Draw Blocking Region</string>
+         </property>
+        </widget>
+        <widget class="QLabel" name="label_10">
+         <property name="geometry">
+          <rect>
+           <x>20</x>
+           <y>30</y>
+           <width>81</width>
+           <height>16</height>
+          </rect>
+         </property>
+         <property name="text">
+          <string>Blocker List:</string>
+         </property>
+        </widget>
+       </widget>
+       <widget class="QLabel" name="label_9">
+        <property name="geometry">
+         <rect>
+          <x>30</x>
+          <y>70</y>
+          <width>62</width>
+          <height>16</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Seed List:</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="saveSeedButton">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>200</y>
+          <width>81</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>save</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="loadSeedButton">
+        <property name="geometry">
+         <rect>
+          <x>100</x>
+          <y>200</y>
+          <width>81</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>load</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="startFuzzyConectednessButton">
+        <property name="enabled">
+         <bool>true</bool>
+        </property>
+        <property name="geometry">
+         <rect>
+          <x>16</x>
+          <y>490</y>
+          <width>181</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Start Segmentation</string>
+        </property>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="step3">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>200</width>
+         <height>457</height>
+        </rect>
+       </property>
+       <attribute name="label">
+        <string>step 3: Segmenting</string>
+       </attribute>
+       <widget class="QPushButton" name="startButton">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>329</y>
+          <width>81</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Start</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="stopButton">
+        <property name="geometry">
+         <rect>
+          <x>110</x>
+          <y>329</y>
+          <width>81</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Stop</string>
+        </property>
+       </widget>
+       <widget class="QProgressBar" name="progressBar">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>450</y>
+          <width>171</width>
+          <height>23</height>
+         </rect>
+        </property>
+        <property name="value">
+         <number>24</number>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_3">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>420</y>
+          <width>62</width>
+          <height>16</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Progress:</string>
+        </property>
+       </widget>
+       <widget class="QLabel" name="LSStatus">
+        <property name="geometry">
+         <rect>
+          <x>72</x>
+          <y>418</y>
+          <width>121</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Initialized</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="nextstepBotton3">
+        <property name="geometry">
+         <rect>
+          <x>100</x>
+          <y>510</y>
+          <width>101</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Next Step&gt;</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="prestepButton3">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>510</y>
+          <width>101</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>&lt;Pre Step</string>
+        </property>
+       </widget>
+       <widget class="QTabWidget" name="levelSetTabWidget">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>20</y>
+          <width>191</width>
+          <height>251</height>
+         </rect>
+        </property>
+        <property name="currentIndex">
+         <number>0</number>
+        </property>
+        <widget class="QWidget" name="parameterTab">
+         <attribute name="title">
+          <string>Parameters</string>
+         </attribute>
+         <widget class="QSlider" name="lowerThresholdSlider">
+          <property name="geometry">
+           <rect>
+            <x>11</x>
+            <y>30</y>
+            <width>160</width>
+            <height>22</height>
+           </rect>
+          </property>
+          <property name="minimum">
+           <number>-1200</number>
+          </property>
+          <property name="maximum">
+           <number>2000</number>
+          </property>
+          <property name="value">
+           <number>200</number>
+          </property>
+          <property name="orientation">
+           <enum>Qt::Horizontal</enum>
+          </property>
+          <property name="tickPosition">
+           <enum>QSlider::TicksBelow</enum>
+          </property>
+          <property name="tickInterval">
+           <number>20</number>
+          </property>
+         </widget>
+         <widget class="QLabel" name="label_5">
+          <property name="geometry">
+           <rect>
+            <x>0</x>
+            <y>10</y>
+            <width>111</width>
+            <height>16</height>
+           </rect>
+          </property>
+          <property name="text">
+           <string>Lower Threshold</string>
+          </property>
+         </widget>
+         <widget class="QSpinBox" name="lowerThresholdSpin">
+          <property name="geometry">
+           <rect>
+            <x>126</x>
+            <y>5</y>
+            <width>57</width>
+            <height>25</height>
+           </rect>
+          </property>
+          <property name="minimum">
+           <number>-1200</number>
+          </property>
+          <property name="maximum">
+           <number>2000</number>
+          </property>
+          <property name="value">
+           <number>200</number>
+          </property>
+         </widget>
+         <widget class="QSlider" name="upperThresholdSlider">
+          <property name="geometry">
+           <rect>
+            <x>8</x>
+            <y>96</y>
+            <width>160</width>
+            <height>22</height>
+           </rect>
+          </property>
+          <property name="minimum">
+           <number>-1200</number>
+          </property>
+          <property name="maximum">
+           <number>2000</number>
+          </property>
+          <property name="value">
+           <number>500</number>
+          </property>
+          <property name="orientation">
+           <enum>Qt::Horizontal</enum>
+          </property>
+          <property name="tickPosition">
+           <enum>QSlider::TicksBelow</enum>
+          </property>
+          <property name="tickInterval">
+           <number>20</number>
+          </property>
+         </widget>
+         <widget class="QSpinBox" name="upperThresholdSpin">
+          <property name="geometry">
+           <rect>
+            <x>125</x>
+            <y>66</y>
+            <width>57</width>
+            <height>25</height>
+           </rect>
+          </property>
+          <property name="minimum">
+           <number>-1200</number>
+          </property>
+          <property name="maximum">
+           <number>2000</number>
+          </property>
+          <property name="value">
+           <number>500</number>
+          </property>
+         </widget>
+         <widget class="QLabel" name="label_4">
+          <property name="geometry">
+           <rect>
+            <x>0</x>
+            <y>71</y>
+            <width>111</width>
+            <height>16</height>
+           </rect>
+          </property>
+          <property name="text">
+           <string>Upper Threshold</string>
+          </property>
+         </widget>
+         <widget class="QSlider" name="smoothFactorSlider">
+          <property name="geometry">
+           <rect>
+            <x>7</x>
+            <y>170</y>
+            <width>161</width>
+            <height>22</height>
+           </rect>
+          </property>
+          <property name="minimum">
+           <number>1</number>
+          </property>
+          <property name="maximum">
+           <number>99</number>
+          </property>
+          <property name="value">
+           <number>50</number>
+          </property>
+          <property name="orientation">
+           <enum>Qt::Horizontal</enum>
+          </property>
+          <property name="tickPosition">
+           <enum>QSlider::TicksBelow</enum>
+          </property>
+          <property name="tickInterval">
+           <number>20</number>
+          </property>
+         </widget>
+         <widget class="QDoubleSpinBox" name="smoothFactorSpin">
+          <property name="geometry">
+           <rect>
+            <x>120</x>
+            <y>141</y>
+            <width>62</width>
+            <height>25</height>
+           </rect>
+          </property>
+          <property name="minimum">
+           <double>0.010000000000000</double>
+          </property>
+          <property name="maximum">
+           <double>0.990000000000000</double>
+          </property>
+          <property name="singleStep">
+           <double>0.010000000000000</double>
+          </property>
+          <property name="value">
+           <double>0.500000000000000</double>
+          </property>
+         </widget>
+         <widget class="QLabel" name="label_6">
+          <property name="geometry">
+           <rect>
+            <x>0</x>
+            <y>145</y>
+            <width>111</width>
+            <height>16</height>
+           </rect>
+          </property>
+          <property name="text">
+           <string>Smoothing Factor:</string>
+          </property>
+         </widget>
+        </widget>
+        <widget class="QWidget" name="blockerTab">
+         <attribute name="title">
+          <string>Blockers</string>
+         </attribute>
+         <widget class="listViewWithKeyBoardSupport" name="stopMarkerListView_2">
+          <property name="geometry">
+           <rect>
+            <x>10</x>
+            <y>29</y>
+            <width>161</width>
+            <height>111</height>
+           </rect>
+          </property>
+          <property name="focusPolicy">
+           <enum>Qt::WheelFocus</enum>
+          </property>
+         </widget>
+         <widget class="QLabel" name="label_12">
+          <property name="geometry">
+           <rect>
+            <x>20</x>
+            <y>9</y>
+            <width>81</width>
+            <height>16</height>
+           </rect>
+          </property>
+          <property name="text">
+           <string>Blocker List:</string>
+          </property>
+         </widget>
+         <widget class="QLabel" name="label_13">
+          <property name="geometry">
+           <rect>
+            <x>4</x>
+            <y>150</y>
+            <width>181</width>
+            <height>61</height>
+           </rect>
+          </property>
+          <property name="text">
+           <string>You can now add or modify blocking regions with left clicking and dragging</string>
+          </property>
+          <property name="wordWrap">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </widget>
+       </widget>
+       <widget class="QCheckBox" name="blockerEditCheckBox">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>280</y>
+          <width>171</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Allow Blocker Editing</string>
+        </property>
+       </widget>
+       <widget class="QSpinBox" name="maxiterationSpinBox">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>300</y>
+          <width>57</width>
+          <height>25</height>
+         </rect>
+        </property>
+        <property name="maximum">
+         <number>100000</number>
+        </property>
+        <property name="value">
+         <number>100</number>
+        </property>
+       </widget>
+       <widget class="QCheckBox" name="multi_Resolution_CheckBox">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>370</y>
+          <width>121</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Speed Boosting</string>
+        </property>
+        <property name="checked">
+         <bool>false</bool>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="speedBoostingHelpButton">
+        <property name="geometry">
+         <rect>
+          <x>160</x>
+          <y>370</y>
+          <width>21</width>
+          <height>21</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>?</string>
+        </property>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="step4">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>200</width>
+         <height>457</height>
+        </rect>
+       </property>
+       <attribute name="label">
+        <string>Step 4: Saving Results</string>
+       </attribute>
+       <widget class="QPushButton" name="saveButton">
+        <property name="geometry">
+         <rect>
+          <x>40</x>
+          <y>330</y>
+          <width>114</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Save Raw Data</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="saveSTLButton">
+        <property name="geometry">
+         <rect>
+          <x>40</x>
+          <y>370</y>
+          <width>114</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Save 3D Mesh</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="prestepButton4">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>480</y>
+          <width>101</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>&lt;Pre Step</string>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_14">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>10</y>
+          <width>62</width>
+          <height>16</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Summary:</string>
+        </property>
+       </widget>
+       <widget class="QTextBrowser" name="resultSummary">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>40</y>
+          <width>161</width>
+          <height>201</height>
+         </rect>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="gobackOsiriX">
+        <property name="geometry">
+         <rect>
+          <x>40</x>
+          <y>410</y>
+          <width>114</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Back to OsiriX</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="saveTextButton">
+        <property name="geometry">
+         <rect>
+          <x>40</x>
+          <y>440</y>
+          <width>114</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Save To Text</string>
+        </property>
+       </widget>
+       <widget class="QSpinBox" name="smoothingIterationSpinBox">
+        <property name="geometry">
+         <rect>
+          <x>116</x>
+          <y>290</y>
+          <width>51</width>
+          <height>24</height>
+         </rect>
+        </property>
+        <property name="maximum">
+         <number>500</number>
+        </property>
+        <property name="value">
+         <number>10</number>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_15">
+        <property name="geometry">
+         <rect>
+          <x>30</x>
+          <y>270</y>
+          <width>131</width>
+          <height>16</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Smoothing Iterations:</string>
+        </property>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="VesselAnalysisPage">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>200</width>
+         <height>457</height>
+        </rect>
+       </property>
+       <attribute name="label">
+        <string>Vessel Analysis</string>
+       </attribute>
+       <widget class="QPushButton" name="startVesselAnalysisButton">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>320</y>
+          <width>81</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Start</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="loadVesselCenterlineButton">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>10</y>
+          <width>161</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Load Centerline</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="stopVesselAnalysisButton">
+        <property name="geometry">
+         <rect>
+          <x>90</x>
+          <y>320</y>
+          <width>91</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Stop</string>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_16">
+        <property name="geometry">
+         <rect>
+          <x>3</x>
+          <y>211</y>
+          <width>141</width>
+          <height>16</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Curvature Weighting</string>
+        </property>
+       </widget>
+       <widget class="QSlider" name="smoothFactorSlider_2">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>240</y>
+          <width>161</width>
+          <height>22</height>
+         </rect>
+        </property>
+        <property name="minimum">
+         <number>1</number>
+        </property>
+        <property name="maximum">
+         <number>99</number>
+        </property>
+        <property name="value">
+         <number>50</number>
+        </property>
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="tickPosition">
+         <enum>QSlider::TicksBelow</enum>
+        </property>
+        <property name="tickInterval">
+         <number>20</number>
+        </property>
+       </widget>
+       <widget class="QDoubleSpinBox" name="smoothFactorSpin_2">
+        <property name="geometry">
+         <rect>
+          <x>133</x>
+          <y>211</y>
+          <width>62</width>
+          <height>25</height>
+         </rect>
+        </property>
+        <property name="minimum">
+         <double>0.010000000000000</double>
+        </property>
+        <property name="maximum">
+         <double>0.990000000000000</double>
+        </property>
+        <property name="singleStep">
+         <double>0.010000000000000</double>
+        </property>
+        <property name="value">
+         <double>0.500000000000000</double>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="exportVesselAnalysisButton">
+        <property name="geometry">
+         <rect>
+          <x>50</x>
+          <y>390</y>
+          <width>141</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Export Radius</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="loadRawButton">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>390</y>
+          <width>91</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>LoadRaw</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="exportVTKButton">
+        <property name="geometry">
+         <rect>
+          <x>30</x>
+          <y>440</y>
+          <width>141</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Save STL</string>
+        </property>
+       </widget>
+       <widget class="QSpinBox" name="upperThresholdSpin_4">
+        <property name="geometry">
+         <rect>
+          <x>139</x>
+          <y>151</y>
+          <width>57</width>
+          <height>25</height>
+         </rect>
+        </property>
+        <property name="minimum">
+         <number>-1200</number>
+        </property>
+        <property name="maximum">
+         <number>2000</number>
+        </property>
+        <property name="value">
+         <number>650</number>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_17">
+        <property name="geometry">
+         <rect>
+          <x>14</x>
+          <y>95</y>
+          <width>111</width>
+          <height>16</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Lower Threshold</string>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_22">
+        <property name="geometry">
+         <rect>
+          <x>14</x>
+          <y>156</y>
+          <width>111</width>
+          <height>16</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Upper Threshold</string>
+        </property>
+       </widget>
+       <widget class="QSlider" name="lowerThresholdSlider_4">
+        <property name="geometry">
+         <rect>
+          <x>25</x>
+          <y>115</y>
+          <width>160</width>
+          <height>22</height>
+         </rect>
+        </property>
+        <property name="minimum">
+         <number>-1200</number>
+        </property>
+        <property name="maximum">
+         <number>2000</number>
+        </property>
+        <property name="value">
+         <number>150</number>
+        </property>
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="tickPosition">
+         <enum>QSlider::TicksBelow</enum>
+        </property>
+        <property name="tickInterval">
+         <number>20</number>
+        </property>
+       </widget>
+       <widget class="QSlider" name="upperThresholdSlider_4">
+        <property name="geometry">
+         <rect>
+          <x>22</x>
+          <y>181</y>
+          <width>160</width>
+          <height>22</height>
+         </rect>
+        </property>
+        <property name="minimum">
+         <number>-1200</number>
+        </property>
+        <property name="maximum">
+         <number>2000</number>
+        </property>
+        <property name="value">
+         <number>650</number>
+        </property>
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="tickPosition">
+         <enum>QSlider::TicksBelow</enum>
+        </property>
+        <property name="tickInterval">
+         <number>20</number>
+        </property>
+       </widget>
+       <widget class="QSpinBox" name="lowerThresholdSpin_4">
+        <property name="geometry">
+         <rect>
+          <x>140</x>
+          <y>90</y>
+          <width>57</width>
+          <height>25</height>
+         </rect>
+        </property>
+        <property name="minimum">
+         <number>-1200</number>
+        </property>
+        <property name="maximum">
+         <number>2000</number>
+        </property>
+        <property name="value">
+         <number>150</number>
+        </property>
+       </widget>
+       <widget class="QProgressBar" name="vesselProgressBar">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>280</y>
+          <width>171</width>
+          <height>23</height>
+         </rect>
+        </property>
+        <property name="value">
+         <number>24</number>
+        </property>
+       </widget>
+       <widget class="QLabel" name="vesselStatusLabel">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>300</y>
+          <width>171</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Not running</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="exportCrossSectionButton">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>460</y>
+          <width>191</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Save Manual Segmentation</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="loadCrossSectionButton">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>420</y>
+          <width>191</width>
+          <height>30</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Load Manual Segmentation</string>
+        </property>
+        <property name="autoExclusive">
+         <bool>true</bool>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="initializeVesselCenterlineButton">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>50</y>
+          <width>161</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Create Centerlines</string>
+        </property>
+       </widget>
+       <widget class="QComboBox" name="viewImageSourceVesselAnalyssisComboBox">
+        <property name="geometry">
+         <rect>
+          <x>30</x>
+          <y>360</y>
+          <width>111</width>
+          <height>26</height>
+         </rect>
+        </property>
+        <item>
+         <property name="text">
+          <string>InputImage</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Distancemap</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>ThresholdMap</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>CombinedMap</string>
+         </property>
+        </item>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="InteracitveSegmentationPage">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>200</width>
+         <height>457</height>
+        </rect>
+       </property>
+       <attribute name="label">
+        <string>Interactive segmentation</string>
+       </attribute>
+       <widget class="QGroupBox" name="groupBox">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>30</y>
+          <width>191</width>
+          <height>51</height>
+         </rect>
+        </property>
+        <property name="title">
+         <string>Mouse Function</string>
+        </property>
+        <widget class="QRadioButton" name="setToAddingRadio">
+         <property name="geometry">
+          <rect>
+           <x>10</x>
+           <y>20</y>
+           <width>71</width>
+           <height>20</height>
+          </rect>
+         </property>
+         <property name="text">
+          <string>Add</string>
+         </property>
+         <property name="checked">
+          <bool>true</bool>
+         </property>
+        </widget>
+        <widget class="QRadioButton" name="setToRemovingRadio">
+         <property name="geometry">
+          <rect>
+           <x>100</x>
+           <y>20</y>
+           <width>71</width>
+           <height>20</height>
+          </rect>
+         </property>
+         <property name="text">
+          <string>Remove</string>
+         </property>
+        </widget>
+       </widget>
+       <widget class="QGroupBox" name="interactiveSegmentParameterGroupBox">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>220</y>
+          <width>191</width>
+          <height>241</height>
+         </rect>
+        </property>
+        <property name="title">
+         <string>Parameters</string>
+        </property>
+        <widget class="QSlider" name="smoothFactorSlider_3">
+         <property name="geometry">
+          <rect>
+           <x>10</x>
+           <y>210</y>
+           <width>161</width>
+           <height>22</height>
+          </rect>
+         </property>
+         <property name="minimum">
+          <number>1</number>
+         </property>
+         <property name="maximum">
+          <number>99</number>
+         </property>
+         <property name="value">
+          <number>50</number>
+         </property>
+         <property name="orientation">
+          <enum>Qt::Horizontal</enum>
+         </property>
+         <property name="tickPosition">
+          <enum>QSlider::TicksBelow</enum>
+         </property>
+         <property name="tickInterval">
+          <number>20</number>
+         </property>
+        </widget>
+        <widget class="QSlider" name="upperThresholdSlider_3">
+         <property name="enabled">
+          <bool>false</bool>
+         </property>
+         <property name="geometry">
+          <rect>
+           <x>11</x>
+           <y>140</y>
+           <width>160</width>
+           <height>22</height>
+          </rect>
+         </property>
+         <property name="minimum">
+          <number>-1200</number>
+         </property>
+         <property name="maximum">
+          <number>2000</number>
+         </property>
+         <property name="value">
+          <number>500</number>
+         </property>
+         <property name="orientation">
+          <enum>Qt::Horizontal</enum>
+         </property>
+         <property name="tickPosition">
+          <enum>QSlider::TicksBelow</enum>
+         </property>
+         <property name="tickInterval">
+          <number>20</number>
+         </property>
+        </widget>
+        <widget class="QSlider" name="lowerThresholdSlider_3">
+         <property name="enabled">
+          <bool>false</bool>
+         </property>
+         <property name="geometry">
+          <rect>
+           <x>14</x>
+           <y>80</y>
+           <width>160</width>
+           <height>22</height>
+          </rect>
+         </property>
+         <property name="minimum">
+          <number>-1200</number>
+         </property>
+         <property name="maximum">
+          <number>2000</number>
+         </property>
+         <property name="value">
+          <number>200</number>
+         </property>
+         <property name="orientation">
+          <enum>Qt::Horizontal</enum>
+         </property>
+         <property name="tickPosition">
+          <enum>QSlider::TicksBelow</enum>
+         </property>
+         <property name="tickInterval">
+          <number>20</number>
+         </property>
+        </widget>
+        <widget class="QDoubleSpinBox" name="smoothFactorSpin_3">
+         <property name="geometry">
+          <rect>
+           <x>123</x>
+           <y>181</y>
+           <width>62</width>
+           <height>25</height>
+          </rect>
+         </property>
+         <property name="minimum">
+          <double>0.010000000000000</double>
+         </property>
+         <property name="maximum">
+          <double>0.990000000000000</double>
+         </property>
+         <property name="singleStep">
+          <double>0.010000000000000</double>
+         </property>
+         <property name="value">
+          <double>0.500000000000000</double>
+         </property>
+        </widget>
+        <widget class="QSpinBox" name="lowerThresholdSpin_3">
+         <property name="enabled">
+          <bool>false</bool>
+         </property>
+         <property name="geometry">
+          <rect>
+           <x>129</x>
+           <y>55</y>
+           <width>57</width>
+           <height>25</height>
+          </rect>
+         </property>
+         <property name="minimum">
+          <number>-1200</number>
+         </property>
+         <property name="maximum">
+          <number>2000</number>
+         </property>
+         <property name="value">
+          <number>200</number>
+         </property>
+        </widget>
+        <widget class="QLabel" name="label_20">
+         <property name="geometry">
+          <rect>
+           <x>3</x>
+           <y>185</y>
+           <width>111</width>
+           <height>16</height>
+          </rect>
+         </property>
+         <property name="text">
+          <string>Smoothing Factor:</string>
+         </property>
+        </widget>
+        <widget class="QSpinBox" name="upperThresholdSpin_3">
+         <property name="enabled">
+          <bool>false</bool>
+         </property>
+         <property name="geometry">
+          <rect>
+           <x>128</x>
+           <y>110</y>
+           <width>57</width>
+           <height>25</height>
+          </rect>
+         </property>
+         <property name="minimum">
+          <number>-1200</number>
+         </property>
+         <property name="maximum">
+          <number>2000</number>
+         </property>
+         <property name="value">
+          <number>500</number>
+         </property>
+        </widget>
+        <widget class="QLabel" name="label_18">
+         <property name="geometry">
+          <rect>
+           <x>3</x>
+           <y>115</y>
+           <width>111</width>
+           <height>16</height>
+          </rect>
+         </property>
+         <property name="text">
+          <string>Upper Threshold</string>
+         </property>
+        </widget>
+        <widget class="QLabel" name="label_19">
+         <property name="geometry">
+          <rect>
+           <x>3</x>
+           <y>60</y>
+           <width>111</width>
+           <height>16</height>
+          </rect>
+         </property>
+         <property name="text">
+          <string>Lower Threshold</string>
+         </property>
+        </widget>
+        <widget class="QCheckBox" name="usingAutomaticThresholdButton">
+         <property name="geometry">
+          <rect>
+           <x>0</x>
+           <y>30</y>
+           <width>191</width>
+           <height>20</height>
+          </rect>
+         </property>
+         <property name="text">
+          <string>Automatically Set Thresholds</string>
+         </property>
+         <property name="checked">
+          <bool>true</bool>
+         </property>
+        </widget>
+       </widget>
+       <widget class="QCheckBox" name="showAdvancedSettingsForInteractiveSegButton">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>207</y>
+          <width>181</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Show Advanced Settings</string>
+        </property>
+       </widget>
+       <widget class="QTextBrowser" name="resultSummary_2">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>102</y>
+          <width>171</width>
+          <height>101</height>
+         </rect>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_21">
+        <property name="geometry">
+         <rect>
+          <x>30</x>
+          <y>82</y>
+          <width>62</width>
+          <height>16</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Results:</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="resetButton">
+        <property name="geometry">
+         <rect>
+          <x>110</x>
+          <y>4</y>
+          <width>81</width>
+          <height>21</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Reset</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="saveButton_interactive">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>490</y>
+          <width>181</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Save Result &amp;&amp; Quit</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="undoButton">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>5</y>
+          <width>81</width>
+          <height>21</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Undo</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="gobackOsiriX2">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>520</y>
+          <width>181</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Back to OsiriX</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="saveTextButton_2">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>460</y>
+          <width>181</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>SaveToText</string>
+        </property>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="RegistrationPage">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>200</width>
+         <height>457</height>
+        </rect>
+       </property>
+       <attribute name="label">
+        <string>Registration</string>
+       </attribute>
+       <widget class="QPushButton" name="startRegistrationButton">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>30</y>
+          <width>114</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Start</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="openMovingImageButton">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>0</y>
+          <width>114</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Open Image</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="resetRegistrationButton">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>60</y>
+          <width>114</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Reset</string>
+        </property>
+       </widget>
+       <widget class="QComboBox" name="viewImageSource">
+        <property name="geometry">
+         <rect>
+          <x>30</x>
+          <y>290</y>
+          <width>111</width>
+          <height>26</height>
+         </rect>
+        </property>
+        <item>
+         <property name="text">
+          <string>Input Image</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>IntensityMap</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>DistanceMap</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>SpeedMap</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>LevelSetOutput</string>
+         </property>
+        </item>
+       </widget>
+       <widget class="QPushButton" name="saveRegistrationButton">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>350</y>
+          <width>141</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>SaveTransform</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="loadRegistrationButton">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>390</y>
+          <width>141</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>LoadTransform</string>
+        </property>
+       </widget>
+       <widget class="QCheckBox" name="modelMaskCheckBox">
+        <property name="geometry">
+         <rect>
+          <x>30</x>
+          <y>220</y>
+          <width>161</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Show Model Mask</string>
+        </property>
+        <property name="checked">
+         <bool>true</bool>
+        </property>
+       </widget>
+       <widget class="QCheckBox" name="levesSetMaskCheckBox">
+        <property name="geometry">
+         <rect>
+          <x>30</x>
+          <y>250</y>
+          <width>161</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Show Level set Mask</string>
+        </property>
+        <property name="checked">
+         <bool>true</bool>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="saveRegistrationResultButton">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>430</y>
+          <width>141</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>SaveResult</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="saveSegmentationResultButton">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>460</y>
+          <width>141</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>SaveSegment</string>
+        </property>
+       </widget>
+       <widget class="QLineEdit" name="translationLineEdit">
+        <property name="enabled">
+         <bool>false</bool>
+        </property>
+        <property name="geometry">
+         <rect>
+          <x>80</x>
+          <y>100</y>
+          <width>81</width>
+          <height>22</height>
+         </rect>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_24">
+        <property name="enabled">
+         <bool>false</bool>
+        </property>
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>100</y>
+          <width>62</width>
+          <height>16</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Translate</string>
+        </property>
+       </widget>
+       <widget class="QLineEdit" name="rotationLineEdit">
+        <property name="enabled">
+         <bool>false</bool>
+        </property>
+        <property name="geometry">
+         <rect>
+          <x>80</x>
+          <y>130</y>
+          <width>81</width>
+          <height>22</height>
+         </rect>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_25">
+        <property name="enabled">
+         <bool>false</bool>
+        </property>
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>130</y>
+          <width>62</width>
+          <height>16</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Rotation</string>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_26">
+        <property name="enabled">
+         <bool>false</bool>
+        </property>
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>160</y>
+          <width>62</width>
+          <height>16</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Scale</string>
+        </property>
+       </widget>
+       <widget class="QLineEdit" name="scalingLineEdit">
+        <property name="enabled">
+         <bool>false</bool>
+        </property>
+        <property name="geometry">
+         <rect>
+          <x>80</x>
+          <y>160</y>
+          <width>81</width>
+          <height>22</height>
+         </rect>
+        </property>
+       </widget>
+       <widget class="QLineEdit" name="mappingLineEdit">
+        <property name="enabled">
+         <bool>false</bool>
+        </property>
+        <property name="geometry">
+         <rect>
+          <x>80</x>
+          <y>190</y>
+          <width>81</width>
+          <height>22</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_27">
+        <property name="enabled">
+         <bool>false</bool>
+        </property>
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>190</y>
+          <width>62</width>
+          <height>16</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Mapping</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="openWeightingImageButton">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>320</y>
+          <width>141</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Open weightImage</string>
+        </property>
+       </widget>
+       <widget class="QComboBox" name="phaseSelectionButton">
+        <property name="geometry">
+         <rect>
+          <x>40</x>
+          <y>500</y>
+          <width>111</width>
+          <height>26</height>
+         </rect>
+        </property>
+        <item>
+         <property name="text">
+          <string>Do not use phase map</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Favor Black-White edge</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Favor White-Black edge</string>
+         </property>
+        </item>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="brainSegmentationPage">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>200</width>
+         <height>457</height>
+        </rect>
+       </property>
+       <attribute name="label">
+        <string>Brain Segmentation</string>
+       </attribute>
+       <widget class="QPushButton" name="startWMSegmentationButton">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>0</y>
+          <width>81</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>start WM</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="startGMSegmentationButton">
+        <property name="geometry">
+         <rect>
+          <x>100</x>
+          <y>0</y>
+          <width>81</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>start GM</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="saveBrainResultButton">
+        <property name="geometry">
+         <rect>
+          <x>40</x>
+          <y>460</y>
+          <width>114</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Save Results</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="creatSurfaceModelButton">
+        <property name="geometry">
+         <rect>
+          <x>40</x>
+          <y>30</y>
+          <width>114</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Create Model</string>
+        </property>
+       </widget>
+       <widget class="QComboBox" name="viewImageSourceComboBox">
+        <property name="geometry">
+         <rect>
+          <x>40</x>
+          <y>150</y>
+          <width>111</width>
+          <height>26</height>
+         </rect>
+        </property>
+        <item>
+         <property name="text">
+          <string>InputImage</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>WMDistanceMap</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>GMDistanceMap</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>CombinedDistanceMap</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>CombinedSkeletonMap</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>GMModel</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>WMIntensityCombinedModel</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>GMIntensityCombinedModel</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>curvature</string>
+         </property>
+        </item>
+       </widget>
+       <widget class="QCheckBox" name="whiteMatterMaskCheckBox">
+        <property name="geometry">
+         <rect>
+          <x>40</x>
+          <y>190</y>
+          <width>111</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Show WM Mask</string>
+        </property>
+        <property name="checked">
+         <bool>true</bool>
+        </property>
+       </widget>
+       <widget class="QCheckBox" name="grayMatterMaskCheckBox">
+        <property name="geometry">
+         <rect>
+          <x>40</x>
+          <y>220</y>
+          <width>131</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Show GM Mask</string>
+        </property>
+        <property name="checked">
+         <bool>true</bool>
+        </property>
+       </widget>
+       <widget class="QCheckBox" name="surfaceModelMaskCheckBox">
+        <property name="geometry">
+         <rect>
+          <x>40</x>
+          <y>250</y>
+          <width>131</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Show Model Mask</string>
+        </property>
+        <property name="checked">
+         <bool>true</bool>
+        </property>
+       </widget>
+       <widget class="QLabel" name="LSStatus_BrainPage">
+        <property name="geometry">
+         <rect>
+          <x>72</x>
+          <y>338</y>
+          <width>121</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Initialized</string>
+        </property>
+       </widget>
+       <widget class="QProgressBar" name="progressBar_BrainPage">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>370</y>
+          <width>171</width>
+          <height>23</height>
+         </rect>
+        </property>
+        <property name="value">
+         <number>24</number>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_23">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>340</y>
+          <width>62</width>
+          <height>16</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Progress:</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="applySurfaceModelButton">
+        <property name="geometry">
+         <rect>
+          <x>40</x>
+          <y>60</y>
+          <width>114</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Apply Model</string>
+        </property>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="randomForestTrainingPage">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>200</width>
+         <height>457</height>
+        </rect>
+       </property>
+       <attribute name="label">
+        <string>Training</string>
+       </attribute>
+       <widget class="QListView" name="trainingImageListView">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>70</y>
+          <width>181</width>
+          <height>181</height>
+         </rect>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="gotoPreviousTrainingImageButton">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>250</y>
+          <width>81</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Previous</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="gotoNextTrainingImageButton">
+        <property name="geometry">
+         <rect>
+          <x>100</x>
+          <y>250</y>
+          <width>81</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Next</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="addTrainningImageButton">
+        <property name="geometry">
+         <rect>
+          <x>120</x>
+          <y>30</y>
+          <width>41</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>+</string>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_28">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>36</y>
+          <width>101</width>
+          <height>21</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Add new image</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="saveTrainingSettingButton">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>0</y>
+          <width>81</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>save</string>
+        </property>
+       </widget>
+       <widget class="listViewWithKeyBoardSupport" name="trainingMarkerListView">
+        <property name="geometry">
+         <rect>
+          <x>3</x>
+          <y>310</y>
+          <width>171</width>
+          <height>81</height>
+         </rect>
+        </property>
+        <property name="focusPolicy">
+         <enum>Qt::WheelFocus</enum>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="loadTrainingSettingButton">
+        <property name="geometry">
+         <rect>
+          <x>90</x>
+          <y>0</y>
+          <width>81</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>load</string>
+        </property>
+       </widget>
+       <widget class="QLabel" name="label_29">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>290</y>
+          <width>101</width>
+          <height>21</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>ROIs</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="startTrainingButton">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>390</y>
+          <width>171</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Start Training</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="saveTrainedForest">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>420</y>
+          <width>81</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>save forest</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="loadTrainedForest">
+        <property name="geometry">
+         <rect>
+          <x>90</x>
+          <y>420</y>
+          <width>81</width>
+          <height>32</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>load forest</string>
+        </property>
+       </widget>
+      </widget>
+     </widget>
+    </item>
+    <item>
+     <widget class="QSplitter" name="mPRSplitter">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>900</width>
+        <height>600</height>
+       </size>
+      </property>
+      <property name="orientation">
+       <enum>Qt::Horizontal</enum>
+      </property>
+      <widget class="QWidget" name="layoutWidget">
+       <layout class="QGridLayout" name="gridLayout">
+        <item row="0" column="0">
+         <widget class="MiaImageView2D" name="leftUpperView" native="true">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>300</width>
+            <height>300</height>
+           </size>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="0">
+         <widget class="MiaImageView2D" name="leftLowerView" native="true">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>300</width>
+            <height>300</height>
+           </size>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="1">
+         <widget class="MiaImageView3D" name="rightLowerView" native="true">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>300</width>
+            <height>300</height>
+           </size>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="1">
+         <widget class="MiaImageView2D" name="rightUpperView" native="true">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>300</width>
+            <height>300</height>
+           </size>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QStackedWidget" name="stackedWidget">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>1</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="minimumSize">
+        <size>
+         <width>300</width>
+         <height>600</height>
+        </size>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>16777215</width>
+         <height>16777215</height>
+        </size>
+       </property>
+       <property name="currentIndex">
+        <number>0</number>
+       </property>
+       <widget class="QWidget" name="curvedMPRPage">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <layout class="QGridLayout" name="gridLayout_2">
+         <property name="leftMargin">
+          <number>0</number>
+         </property>
+         <property name="topMargin">
+          <number>0</number>
+         </property>
+         <property name="rightMargin">
+          <number>0</number>
+         </property>
+         <property name="bottomMargin">
+          <number>0</number>
+         </property>
+         <property name="spacing">
+          <number>0</number>
+         </property>
+         <item row="0" column="0">
+          <widget class="QWidget" name="widget" native="true">
+           <property name="sizePolicy">
+            <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
+             <horstretch>0</horstretch>
+             <verstretch>0</verstretch>
+            </sizepolicy>
+           </property>
+           <property name="minimumSize">
+            <size>
+             <width>0</width>
+             <height>40</height>
+            </size>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>16777215</width>
+             <height>40</height>
+            </size>
+           </property>
+           <widget class="QPushButton" name="nextAngleButton">
+            <property name="geometry">
+             <rect>
+              <x>0</x>
+              <y>10</y>
+              <width>151</width>
+              <height>32</height>
+             </rect>
+            </property>
+            <property name="text">
+             <string>Next Preset Angle</string>
+            </property>
+           </widget>
+           <widget class="QPushButton" name="nextPositionButton">
+            <property name="geometry">
+             <rect>
+              <x>160</x>
+              <y>10</y>
+              <width>151</width>
+              <height>32</height>
+             </rect>
+            </property>
+            <property name="text">
+             <string>Next Preset Position</string>
+            </property>
+           </widget>
+          </widget>
+         </item>
+         <item row="1" column="0">
+          <widget class="MiaImageView2D" name="curvedMPRV" native="true">
+           <property name="sizePolicy">
+            <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+             <horstretch>0</horstretch>
+             <verstretch>0</verstretch>
+            </sizepolicy>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+       <widget class="QWidget" name="stackedWidgetPage2">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+       </widget>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1204</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuFile">
+    <property name="title">
+     <string>File</string>
+    </property>
+    <widget class="QMenu" name="menuOpen">
+     <property name="title">
+      <string>Open Dataset</string>
+     </property>
+     <addaction name="actionOpen_mhd_file"/>
+     <addaction name="actionOpen_Nifti_file"/>
+     <addaction name="actionOpen_VTK_file"/>
+     <addaction name="actionOpen_DICOM_folder"/>
+     <addaction name="actionOpen_2D_image"/>
+    </widget>
+    <addaction name="menuOpen"/>
+   </widget>
+   <widget class="QMenu" name="menuHelp">
+    <property name="title">
+     <string>Help</string>
+    </property>
+    <addaction name="actionOnline_Tutorial"/>
+    <addaction name="actionAbout_MiaLite"/>
+   </widget>
+   <widget class="QMenu" name="menuOperations">
+    <property name="title">
+     <string>Operation</string>
+    </property>
+    <addaction name="actionThresholdBasedSegmentation"/>
+    <addaction name="actionClickDragInteractiveSegmentation"/>
+    <addaction name="actionModelBasedSegmentation"/>
+    <addaction name="actionRegistration"/>
+    <addaction name="actionModelBasedMethod"/>
+    <addaction name="actionVesselAnalysis"/>
+    <addaction name="actionLiverSegmentMarking"/>
+    <addaction name="actionBodyPartDetectorTraining"/>
+    <addaction name="actionBodyPartDetection"/>
+    <addaction name="actionFuzzyConnectednessSegmentation"/>
+    <addaction name="actionMulti_seed_vessel_segmentation"/>
+   </widget>
+   <widget class="QMenu" name="menuWorkFlow">
+    <property name="title">
+     <string>WorkFlow</string>
+    </property>
+    <addaction name="actionBrainSegmentation"/>
+    <addaction name="actionLeftVentricleSegmentation"/>
+    <addaction name="actionBoneSegmentationPrinting"/>
+   </widget>
+   <addaction name="menuFile"/>
+   <addaction name="menuOperations"/>
+   <addaction name="menuWorkFlow"/>
+   <addaction name="menuHelp"/>
+  </widget>
+  <widget class="QToolBar" name="mainToolBar">
+   <property name="iconSize">
+    <size>
+     <width>50</width>
+     <height>50</height>
+    </size>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionWindow_Setting"/>
+   <addaction name="actionPan"/>
+   <addaction name="actionZoom"/>
+   <addaction name="actionCurve_ROI"/>
+   <addaction name="separator"/>
+   <addaction name="actionAbout_MiaLite"/>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <action name="actionOpen_mhd_file">
+   <property name="text">
+    <string>open .mhd file</string>
+   </property>
+   <property name="shortcut">
+    <string>Meta+O</string>
+   </property>
+  </action>
+  <action name="actionOpen_DICOM_folder">
+   <property name="text">
+    <string>open DICOM folder</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+O</string>
+   </property>
+  </action>
+  <action name="actionOpen_2D_image">
+   <property name="text">
+    <string>open 2D image</string>
+   </property>
+  </action>
+  <action name="actionOnline_Tutorial">
+   <property name="text">
+    <string>Online Tutorial</string>
+   </property>
+  </action>
+  <action name="actionAbout_MiaLite">
+   <property name="icon">
+    <iconset resource="logos.qrc">
+     <normaloff>:/image/logo</normaloff>:/image/logo</iconset>
+   </property>
+   <property name="text">
+    <string>About MiaLite</string>
+   </property>
+  </action>
+  <action name="actionPan">
+   <property name="icon">
+    <iconset resource="logos.qrc">
+     <normaloff>:/image/pan</normaloff>:/image/pan</iconset>
+   </property>
+   <property name="text">
+    <string>Pan</string>
+   </property>
+   <property name="toolTip">
+    <string>Move the images</string>
+   </property>
+  </action>
+  <action name="actionWindow_Setting">
+   <property name="icon">
+    <iconset resource="logos.qrc">
+     <normaloff>:/image/win</normaloff>:/image/win</iconset>
+   </property>
+   <property name="text">
+    <string>Window Setting</string>
+   </property>
+   <property name="toolTip">
+    <string>Change the window setting</string>
+   </property>
+  </action>
+  <action name="actionZoom">
+   <property name="icon">
+    <iconset resource="logos.qrc">
+     <normaloff>:/image/zoom</normaloff>:/image/zoom</iconset>
+   </property>
+   <property name="text">
+    <string>Zoom</string>
+   </property>
+   <property name="toolTip">
+    <string>Zoom in or out</string>
+   </property>
+  </action>
+  <action name="actionCurve_ROI">
+   <property name="icon">
+    <iconset resource="logos.qrc">
+     <normaloff>:/image/openCurveROI</normaloff>:/image/openCurveROI</iconset>
+   </property>
+   <property name="text">
+    <string>Curve ROI</string>
+   </property>
+   <property name="toolTip">
+    <string>Creat curve ROI</string>
+   </property>
+  </action>
+  <action name="actionNextStep">
+   <property name="text">
+    <string>NextStep</string>
+   </property>
+   <property name="toolTip">
+    <string>go to next step</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+N</string>
+   </property>
+  </action>
+  <action name="actionLoadCenterline">
+   <property name="text">
+    <string>LoadCenterline</string>
+   </property>
+   <property name="toolTip">
+    <string>load external centerline</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+L</string>
+   </property>
+  </action>
+  <action name="actionThresholdBasedSegmentation">
+   <property name="text">
+    <string>Threshold based segmentation</string>
+   </property>
+  </action>
+  <action name="actionClickDragInteractiveSegmentation">
+   <property name="text">
+    <string>Click-Drag interactive segmentation</string>
+   </property>
+  </action>
+  <action name="actionModelBasedSegmentation">
+   <property name="text">
+    <string>Model based segmentation</string>
+   </property>
+  </action>
+  <action name="actionRegistration">
+   <property name="text">
+    <string>Registration</string>
+   </property>
+  </action>
+  <action name="actionModelBasedMethod">
+   <property name="text">
+    <string>Shape model based segmentation</string>
+   </property>
+  </action>
+  <action name="actionVesselAnalysis">
+   <property name="text">
+    <string>Vessel analysis</string>
+   </property>
+  </action>
+  <action name="actionBrainSegmentation">
+   <property name="text">
+    <string>Brain segmentation</string>
+   </property>
+  </action>
+  <action name="actionLiverSegmentMarking">
+   <property name="text">
+    <string>Liver segment marking</string>
+   </property>
+  </action>
+  <action name="actionLeftVentricleSegmentation">
+   <property name="text">
+    <string>Left ventricle segmentation</string>
+   </property>
+  </action>
+  <action name="actionBodyPartDetectorTraining">
+   <property name="text">
+    <string>Body part detector training</string>
+   </property>
+  </action>
+  <action name="actionBodyPartDetection">
+   <property name="text">
+    <string>Body part detection</string>
+   </property>
+  </action>
+  <action name="actionOpen_Nifti_file">
+   <property name="text">
+    <string>open Nifti file</string>
+   </property>
+  </action>
+  <action name="actionFuzzyConnectednessSegmentation">
+   <property name="text">
+    <string>Fuzzy connectedness segmentation</string>
+   </property>
+  </action>
+  <action name="actionBoneSegmentationPrinting">
+   <property name="text">
+    <string>Bone segmentation and printing</string>
+   </property>
+  </action>
+  <action name="actionOpen_VTK_file">
+   <property name="text">
+    <string>open VTK file</string>
+   </property>
+  </action>
+  <action name="actionMutli_Layer_Level_Set">
+   <property name="text">
+    <string>Mutli Layer Level Set</string>
+   </property>
+  </action>
+  <action name="actionMulti_seed_vessel_segmentation">
+   <property name="text">
+    <string>Multi seed vessel segmentation</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <customwidgets>
+  <customwidget>
+   <class>listViewWithKeyBoardSupport</class>
+   <extends>QListView</extends>
+   <header>listviewwithkeyboardsupport.h</header>
+  </customwidget>
+  <customwidget>
+   <class>MiaImageView2D</class>
+   <extends>QWidget</extends>
+   <header>MiaViewModules\miaimageview2d.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>MiaImageView3D</class>
+   <extends>QWidget</extends>
+   <header>MiaViewModules\miaimageview3d.h</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <resources>
+  <include location="logos.qrc"/>
+ </resources>
+ <connections>
+  <connection>
+   <sender>lowerThresholdSlider</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>lowerThresholdSpin</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>196</x>
+     <y>247</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>208</x>
+     <y>225</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lowerThresholdSpin</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>lowerThresholdSlider</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>208</x>
+     <y>225</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>196</x>
+     <y>247</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>upperThresholdSlider_2</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>upperThresholdSpin_2</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>192</x>
+     <y>503</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>209</x>
+     <y>473</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>upperThresholdSpin_2</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>upperThresholdSlider_2</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>209</x>
+     <y>473</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>192</x>
+     <y>503</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lowerThresholdSlider_2</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>lowerThresholdSpin_2</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>124</x>
+     <y>434</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>193</x>
+     <y>409</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lowerThresholdSpin_2</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>lowerThresholdSlider_2</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>193</x>
+     <y>409</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>124</x>
+     <y>434</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>upperThresholdSlider</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>upperThresholdSpin</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>125</x>
+     <y>313</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>194</x>
+     <y>286</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>upperThresholdSpin</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>upperThresholdSlider</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>194</x>
+     <y>286</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>125</x>
+     <y>313</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lowerThresholdSlider_3</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>lowerThresholdSpin_3</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>116</x>
+     <y>562</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>180</x>
+     <y>539</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lowerThresholdSpin_3</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>lowerThresholdSlider_3</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>180</x>
+     <y>539</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>116</x>
+     <y>562</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>upperThresholdSlider_3</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>upperThresholdSpin_3</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>113</x>
+     <y>622</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>179</x>
+     <y>594</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>upperThresholdSpin_3</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>upperThresholdSlider_3</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>179</x>
+     <y>594</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>113</x>
+     <y>622</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lowerThresholdSlider_4</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>lowerThresholdSpin_4</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>117</x>
+     <y>373</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>181</x>
+     <y>350</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>upperThresholdSlider_4</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>upperThresholdSpin_4</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>114</x>
+     <y>439</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>180</x>
+     <y>411</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lowerThresholdSpin_4</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>lowerThresholdSlider_4</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>181</x>
+     <y>350</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>117</x>
+     <y>373</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>upperThresholdSpin_4</sender>
+   <signal>valueChanged(int)</signal>
+   <receiver>upperThresholdSlider_4</receiver>
+   <slot>setValue(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>180</x>
+     <y>411</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>114</x>
+     <y>439</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>openImage()</slot>
+ </slots>
+</ui>

@@ -1,0 +1,2783 @@
+11:35:20.793 : Logging Start
+11:35:41.308 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:35:41.308 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:35:41.308 : MiaImage2QImage:Failed to load input Image
+11:35:41.308 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:35:41.308 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:35:41.308 : MiaImage2QImage:Failed to load input Image
+11:35:41.308 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:35:41.308 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:35:41.308 : MiaImage2QImage:Failed to load input Image
+11:35:41.312 : MiaImage2QImage:change Window Settings WL:128 WW:256
+11:35:41.312 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:35:41.312 : MiaImage2QImage:Failed to load input Image
+11:35:41.312 : MiaImage2QImage:change Window Settings WL:128 WW:256
+11:35:41.312 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:35:41.312 : MiaImage2QImage:Failed to load input Image
+11:35:41.312 : MiaImage2QImage:change Window Settings WL:128 WW:256
+11:35:41.312 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:35:41.312 : MiaImage2QImage:Failed to load input Image
+11:35:41.316 : MiaImage2QImage:change Window Settings WL:150 WW:300
+11:35:41.316 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:35:41.316 : MiaImage2QImage:Failed to load input Image
+11:35:41.316 : MiaImage2QImage:change Window Settings WL:150 WW:300
+11:35:41.316 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:35:41.316 : MiaImage2QImage:Failed to load input Image
+11:35:41.316 : MiaImage2QImage:change Window Settings WL:150 WW:300
+11:35:41.316 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:35:41.316 : MiaImage2QImage:Failed to load input Image
+11:35:53.382 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:35:53.382 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:35:53.382 : MiaImage2QImage:Failed to load input Image
+11:35:53.383 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:35:53.383 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:35:53.383 : MiaImage2QImage:Failed to load input Image
+11:35:53.383 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:35:53.383 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:35:53.383 : MiaImage2QImage:Failed to load input Image
+11:35:53.387 : Curved MPR module:Failed to load input Image
+11:35:53.387 : Curved MPR module:Failed to load input Image
+11:35:53.387 : MiaImage2QImage:Failed to load input Image
+11:35:53.387 : MiaObliquMPRSlicer:Failed to load input Image
+11:35:53.387 : MiaObliquMPRSlicer:Failed to load input Image
+11:35:53.387 : MiaObliquMPRSlicer:Failed to load input Image
+11:35:53.387 : MiaImage2QImage:Failed to load input Image
+11:35:53.388 : centerline tracking module:Failed to load input Image
+11:35:53.388 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:35:53.388 : MiaThresholding:Failed to load input Image
+11:35:53.388 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:35:53.388 : MiaThresholding:Failed to load input Image
+11:35:53.388 : MiaImage2QImage:Failed to load input Image
+11:35:53.388 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:35:53.388 : MiaThresholding:Failed to load input Image
+11:35:53.389 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:35:53.389 : MiaThresholding:Failed to load input Image
+11:35:53.389 : MiaImage2QImage:Failed to load input Image
+11:35:53.389 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:35:53.389 : MiaThresholding:Failed to load input Image
+11:35:53.389 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:35:53.389 : MiaThresholding:Failed to load input Image
+11:35:53.389 : MiaImage2QImage:Failed to load input Image
+11:35:53.948 : Intensity mapping:Failed to load input Image
+11:35:53.948 : Multi-input Intensity mapping:Failed to load input Image
+11:35:53.948 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:35:53.948 : MiaOrthogonalSlicer:Failed to load input Image
+11:35:53.948 : Intensity mapping:Failed to load input Image
+11:35:53.948 : Multi-input Intensity mapping:Failed to load input Image
+11:35:53.948 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:35:53.948 : MiaOrthogonalSlicer:Failed to load input Image
+11:35:53.948 : Intensity mapping:Failed to load input Image
+11:35:53.948 : Multi-input Intensity mapping:Failed to load input Image
+11:35:53.948 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:35:53.948 : MiaOrthogonalSlicer:Failed to load input Image
+11:35:53.948 : Intensity mapping:Failed to load input Image
+11:35:53.948 : Multi-input Intensity mapping:Failed to load input Image
+11:35:53.948 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:35:53.948 : MiaOrthogonalSlicer:Failed to load input Image
+11:35:53.948 : MiaImage2QImage:Failed to load input Image
+11:35:53.948 : Intensity mapping:Failed to load input Image
+11:35:53.948 : Multi-input Intensity mapping:Failed to load input Image
+11:35:53.948 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:35:53.948 : MiaOrthogonalSlicer:Failed to load input Image
+11:35:53.948 : MiaImage2QImage:Failed to load input Image
+11:35:53.948 : Intensity mapping:Failed to load input Image
+11:35:53.948 : Multi-input Intensity mapping:Failed to load input Image
+11:35:53.948 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:35:53.948 : MiaOrthogonalSlicer:Failed to load input Image
+11:35:53.948 : MiaImage2QImage:Failed to load input Image
+11:35:53.949 : MiaImage2QImage:change Window Settings WL:128 WW:256
+11:35:53.949 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:35:53.949 : MiaImage2QImage:Failed to load input Image
+11:35:53.949 : MiaImage2QImage:change Window Settings WL:128 WW:256
+11:35:53.949 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:35:53.949 : MiaImage2QImage:Failed to load input Image
+11:35:53.950 : MiaImage2QImage:change Window Settings WL:128 WW:256
+11:35:53.950 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:35:53.950 : MiaImage2QImage:Failed to load input Image
+11:35:53.951 : MiaImage2QImage:change Window Settings WL:150 WW:300
+11:35:53.951 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:35:53.951 : MiaImage2QImage:Failed to load input Image
+11:35:53.951 : MiaImage2QImage:change Window Settings WL:150 WW:300
+11:35:53.951 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:35:53.951 : MiaImage2QImage:Failed to load input Image
+11:35:53.951 : MiaImage2QImage:change Window Settings WL:150 WW:300
+11:35:53.951 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:35:53.951 : MiaImage2QImage:Failed to load input Image
+11:35:56.843 : Intensity mapping:Failed to load input Image
+11:35:56.843 : Multi-input Intensity mapping:Failed to load input Image
+11:35:56.843 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:35:56.843 : MiaOrthogonalSlicer:Failed to load input Image
+11:35:56.843 : Intensity mapping:Failed to load input Image
+11:35:56.843 : Multi-input Intensity mapping:Failed to load input Image
+11:35:56.843 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:35:56.843 : MiaOrthogonalSlicer:Failed to load input Image
+11:35:56.843 : Intensity mapping:Failed to load input Image
+11:35:56.843 : Multi-input Intensity mapping:Failed to load input Image
+11:35:56.843 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:35:56.843 : MiaOrthogonalSlicer:Failed to load input Image
+11:35:56.843 : Intensity mapping:Failed to load input Image
+11:35:56.843 : Multi-input Intensity mapping:Failed to load input Image
+11:35:56.843 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:35:56.843 : :Failed to load input Image
+11:35:56.919 : MiaImage2QImage:change Window Settings WL:150 WW:300
+11:35:56.919 : Curved MPR module:Failed to load input Image
+11:35:56.919 : MiaImage2QImage:Failed to load input Image
+11:35:56.920 : MiaImage2QImage:change Window Settings WL:150 WW:300
+11:35:56.920 : MiaObliquMPRSlicer:Failed to load input Image
+11:35:56.920 : MiaImage2QImage:Failed to load input Image
+11:36:15.805 : Curved MPR module:Failed to load input Image
+11:36:15.805 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.808 : Curved MPR module:Failed to load input Image
+11:36:15.810 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.810 : Curved MPR module:Failed to load input Image
+11:36:15.810 : Curved MPR module:Failed to load input Image
+11:36:15.810 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.810 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.815 : Curved MPR module:Failed to load input Image
+11:36:15.815 : Curved MPR module:Failed to load input Image
+11:36:15.815 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.815 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.816 : Curved MPR module:Failed to load input Image
+11:36:15.816 : Curved MPR module:Failed to load input Image
+11:36:15.816 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.816 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.818 : Curved MPR module:Failed to load input Image
+11:36:15.819 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.820 : Curved MPR module:Failed to load input Image
+11:36:15.820 : Curved MPR module:Failed to load input Image
+11:36:15.820 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.820 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.824 : Curved MPR module:Failed to load input Image
+11:36:15.824 : Curved MPR module:Failed to load input Image
+11:36:15.824 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.824 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.825 : Curved MPR module:Failed to load input Image
+11:36:15.825 : Curved MPR module:Failed to load input Image
+11:36:15.825 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.825 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.826 : Curved MPR module:Failed to load input Image
+11:36:15.827 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.828 : Curved MPR module:Failed to load input Image
+11:36:15.828 : Curved MPR module:Failed to load input Image
+11:36:15.828 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.828 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.830 : Curved MPR module:Failed to load input Image
+11:36:15.830 : Curved MPR module:Failed to load input Image
+11:36:15.830 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.830 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.830 : Curved MPR module:Failed to load input Image
+11:36:15.830 : Curved MPR module:Failed to load input Image
+11:36:15.830 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.830 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.834 : Curved MPR module:Failed to load input Image
+11:36:15.837 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.839 : Curved MPR module:Failed to load input Image
+11:36:15.839 : Curved MPR module:Failed to load input Image
+11:36:15.839 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.839 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.859 : Curved MPR module:Failed to load input Image
+11:36:15.859 : Curved MPR module:Failed to load input Image
+11:36:15.859 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.859 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.861 : Curved MPR module:Failed to load input Image
+11:36:15.861 : Curved MPR module:Failed to load input Image
+11:36:15.861 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.861 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.943 : Curved MPR module:Failed to load input Image
+11:36:15.953 : Curved MPR module:Failed to load input Image
+11:36:15.953 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.954 : Curved MPR module:Failed to load input Image
+11:36:15.954 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.954 : Curved MPR module:Failed to load input Image
+11:36:15.955 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.955 : Curved MPR module:Failed to load input Image
+11:36:15.955 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:15.956 : Curved MPR module:Failed to load input Image
+11:36:15.956 : MiaObliquMPRSlicer:Failed to load input Image
+11:36:25.587 : Fast matching: loading image: time elapsed: 1
+11:36:28.188 : Fast matching:processing: time elapsed: 2602
+11:36:35.700 : Fast matching: loading image: time elapsed: 0
+11:36:36.804 : Fast matching:processing: time elapsed: 1104
+11:36:37.174 : Fast matching: loading image: time elapsed: 1
+11:36:37.692 : Fast matching:processing: time elapsed: 519
+11:36:38.363 : Fast matching:Failed to load input Image
+11:36:38.555 : Fast matching: loading image: time elapsed: 11
+11:36:41.634 : Fast matching:processing: time elapsed: 3090
+11:36:51.166 : Fast matching: loading image: time elapsed: 13
+11:36:52.291 : Fast matching:processing: time elapsed: 1138
+11:36:52.641 : Fast matching: loading image: time elapsed: 10
+11:36:53.166 : Fast matching:processing: time elapsed: 535
+11:36:53.715 : Fast matching:Failed to load input Image
+11:36:53.900 : Fast matching: loading image: time elapsed: 10
+11:36:57.247 : Fast matching:processing: time elapsed: 3357
+11:37:07.722 : Fast matching: loading image: time elapsed: 11
+11:37:08.901 : Fast matching:processing: time elapsed: 1190
+11:37:09.257 : Fast matching: loading image: time elapsed: 9
+11:37:09.813 : Fast matching:processing: time elapsed: 565
+11:37:10.322 : Fast matching:Failed to load input Image
+11:37:10.504 : Fast matching: loading image: time elapsed: 10
+11:37:13.917 : Fast matching:processing: time elapsed: 3423
+11:38:31.902 : Logging Start
+11:38:54.142 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:38:54.142 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:38:54.142 : MiaImage2QImage:Failed to load input Image
+11:38:54.142 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:38:54.142 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:38:54.142 : MiaImage2QImage:Failed to load input Image
+11:38:54.142 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:38:54.142 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:38:54.142 : MiaImage2QImage:Failed to load input Image
+11:38:54.143 : MiaImage2QImage:change Window Settings WL:128 WW:256
+11:38:54.143 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:38:54.143 : MiaImage2QImage:Failed to load input Image
+11:38:54.143 : MiaImage2QImage:change Window Settings WL:128 WW:256
+11:38:54.143 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:38:54.143 : MiaImage2QImage:Failed to load input Image
+11:38:54.143 : MiaImage2QImage:change Window Settings WL:128 WW:256
+11:38:54.143 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:38:54.143 : MiaImage2QImage:Failed to load input Image
+11:38:54.146 : MiaImage2QImage:change Window Settings WL:150 WW:300
+11:38:54.146 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:38:54.146 : MiaImage2QImage:Failed to load input Image
+11:38:54.146 : MiaImage2QImage:change Window Settings WL:150 WW:300
+11:38:54.146 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:38:54.146 : MiaImage2QImage:Failed to load input Image
+11:38:54.146 : MiaImage2QImage:change Window Settings WL:150 WW:300
+11:38:54.146 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:38:54.146 : MiaImage2QImage:Failed to load input Image
+11:39:17.480 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:39:17.480 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:39:17.480 : MiaImage2QImage:Failed to load input Image
+11:39:17.480 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:39:17.480 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:39:17.480 : MiaImage2QImage:Failed to load input Image
+11:39:17.480 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:39:17.480 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:39:17.480 : MiaImage2QImage:Failed to load input Image
+11:39:17.482 : Curved MPR module:Failed to load input Image
+11:39:17.482 : Curved MPR module:Failed to load input Image
+11:39:17.482 : MiaImage2QImage:Failed to load input Image
+11:39:17.482 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:17.482 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:17.482 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:17.482 : MiaImage2QImage:Failed to load input Image
+11:39:17.482 : centerline tracking module:Failed to load input Image
+11:39:17.482 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:39:17.482 : MiaThresholding:Failed to load input Image
+11:39:17.483 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:39:17.483 : MiaThresholding:Failed to load input Image
+11:39:17.483 : MiaImage2QImage:Failed to load input Image
+11:39:17.483 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:39:17.483 : MiaThresholding:Failed to load input Image
+11:39:17.483 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:39:17.483 : MiaThresholding:Failed to load input Image
+11:39:17.483 : MiaImage2QImage:Failed to load input Image
+11:39:17.483 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:39:17.483 : MiaThresholding:Failed to load input Image
+11:39:17.483 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:39:17.483 : MiaThresholding:Failed to load input Image
+11:39:17.483 : MiaImage2QImage:Failed to load input Image
+11:39:18.035 : Intensity mapping:Failed to load input Image
+11:39:18.035 : Multi-input Intensity mapping:Failed to load input Image
+11:39:18.035 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:39:18.035 : MiaOrthogonalSlicer:Failed to load input Image
+11:39:18.035 : Intensity mapping:Failed to load input Image
+11:39:18.035 : Multi-input Intensity mapping:Failed to load input Image
+11:39:18.035 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:39:18.035 : MiaOrthogonalSlicer:Failed to load input Image
+11:39:18.035 : Intensity mapping:Failed to load input Image
+11:39:18.035 : Multi-input Intensity mapping:Failed to load input Image
+11:39:18.035 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:39:18.035 : MiaOrthogonalSlicer:Failed to load input Image
+11:39:18.035 : Intensity mapping:Failed to load input Image
+11:39:18.035 : Multi-input Intensity mapping:Failed to load input Image
+11:39:18.035 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:39:18.035 : MiaOrthogonalSlicer:Failed to load input Image
+11:39:18.035 : MiaImage2QImage:Failed to load input Image
+11:39:18.035 : Intensity mapping:Failed to load input Image
+11:39:18.036 : Multi-input Intensity mapping:Failed to load input Image
+11:39:18.036 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:39:18.036 : MiaOrthogonalSlicer:Failed to load input Image
+11:39:18.036 : MiaImage2QImage:Failed to load input Image
+11:39:18.036 : Intensity mapping:Failed to load input Image
+11:39:18.036 : Multi-input Intensity mapping:Failed to load input Image
+11:39:18.036 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:39:18.036 : MiaOrthogonalSlicer:Failed to load input Image
+11:39:18.036 : MiaImage2QImage:Failed to load input Image
+11:39:18.037 : MiaImage2QImage:change Window Settings WL:128 WW:256
+11:39:18.037 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:39:18.037 : MiaImage2QImage:Failed to load input Image
+11:39:18.037 : MiaImage2QImage:change Window Settings WL:128 WW:256
+11:39:18.037 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:39:18.037 : MiaImage2QImage:Failed to load input Image
+11:39:18.037 : MiaImage2QImage:change Window Settings WL:128 WW:256
+11:39:18.037 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:39:18.037 : MiaImage2QImage:Failed to load input Image
+11:39:18.038 : MiaImage2QImage:change Window Settings WL:150 WW:300
+11:39:18.038 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:39:18.038 : MiaImage2QImage:Failed to load input Image
+11:39:18.038 : MiaImage2QImage:change Window Settings WL:150 WW:300
+11:39:18.038 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:39:18.038 : MiaImage2QImage:Failed to load input Image
+11:39:18.038 : MiaImage2QImage:change Window Settings WL:150 WW:300
+11:39:18.038 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:39:18.038 : MiaImage2QImage:Failed to load input Image
+11:39:20.816 : Intensity mapping:Failed to load input Image
+11:39:20.816 : Multi-input Intensity mapping:Failed to load input Image
+11:39:20.816 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:39:20.816 : MiaOrthogonalSlicer:Failed to load input Image
+11:39:20.816 : Intensity mapping:Failed to load input Image
+11:39:20.816 : Multi-input Intensity mapping:Failed to load input Image
+11:39:20.816 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:39:20.816 : MiaOrthogonalSlicer:Failed to load input Image
+11:39:20.816 : Intensity mapping:Failed to load input Image
+11:39:20.816 : Multi-input Intensity mapping:Failed to load input Image
+11:39:20.816 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:39:20.816 : MiaOrthogonalSlicer:Failed to load input Image
+11:39:20.816 : Intensity mapping:Failed to load input Image
+11:39:20.816 : Multi-input Intensity mapping:Failed to load input Image
+11:39:20.816 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:39:20.816 : :Failed to load input Image
+11:39:20.885 : MiaImage2QImage:change Window Settings WL:150 WW:300
+11:39:20.885 : Curved MPR module:Failed to load input Image
+11:39:20.885 : MiaImage2QImage:Failed to load input Image
+11:39:20.885 : MiaImage2QImage:change Window Settings WL:150 WW:300
+11:39:20.885 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:20.885 : MiaImage2QImage:Failed to load input Image
+11:39:41.193 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.225 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.239 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.270 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.286 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.318 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.335 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.370 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.386 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.417 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.434 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.466 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.482 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.521 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.537 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.568 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.585 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.616 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.631 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.670 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.686 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.839 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.868 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.901 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.917 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.953 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.969 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:41.999 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.016 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.052 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.087 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.120 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.152 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.186 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.202 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.233 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.249 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.285 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.303 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.335 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.352 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.386 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.402 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.434 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.450 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.485 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.520 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.554 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.587 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.620 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.637 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.671 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.705 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.738 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.754 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.786 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.820 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.854 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.887 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.920 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:42.954 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:43.265 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:43.302 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:43.319 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:43.349 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:43.365 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:43.402 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:43.419 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:43.453 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:43.470 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:43.501 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:43.536 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:43.553 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:43.584 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:43.618 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:45.691 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:45.725 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:45.792 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:45.809 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:45.840 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:45.857 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:45.894 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:45.911 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:45.943 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:45.960 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:45.992 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:46.009 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:46.040 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:46.056 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:46.093 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:46.127 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:46.160 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:46.192 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:46.226 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:46.260 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:46.277 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:46.307 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:46.341 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:46.473 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:46.509 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:46.544 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:46.974 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:47.008 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:47.041 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:47.073 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:47.111 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:47.144 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:47.160 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:47.192 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:47.226 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:47.259 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:47.292 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:47.326 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:47.359 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:47.392 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:47.425 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:47.458 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:47.474 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:47.510 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:47.545 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:47.577 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:47.645 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:48.146 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:48.202 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:48.332 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:48.785 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:48.814 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:48.846 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:48.890 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:48.926 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:48.959 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:48.993 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.025 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.058 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.091 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.127 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.160 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.193 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.210 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.241 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.279 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.294 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.326 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.341 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.377 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.396 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.427 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.444 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.474 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.490 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.527 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.544 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.576 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.592 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.627 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.644 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.675 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.691 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.728 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.745 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.776 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.791 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.827 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.861 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.877 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.911 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.945 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.962 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:49.992 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:50.011 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:50.041 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:50.079 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:50.097 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:50.129 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:50.145 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:50.177 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:50.211 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:50.228 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:50.260 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:50.295 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:50.329 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:50.346 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:50.376 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:50.409 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:50.445 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:50.478 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:50.732 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:50.762 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:50.795 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:50.828 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:50.860 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:50.893 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:50.925 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:50.961 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:51.322 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:51.361 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:51.393 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:51.425 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:51.458 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:51.494 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:51.528 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:51.561 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:51.594 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:51.661 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:52.259 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:52.332 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:52.592 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:52.629 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:52.661 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:52.694 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:52.761 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:53.076 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:53.114 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:53.146 : MiaObliquMPRSlicer:Failed to load input Image
+11:39:53.179 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:03.102 : Curved MPR module:Failed to load input Image
+11:40:03.102 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:03.213 : Curved MPR module:Failed to load input Image
+11:40:03.213 : Curved MPR module:Failed to load input Image
+11:40:03.213 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:03.213 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:08.427 : Curved MPR module:Failed to load input Image
+11:40:08.427 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:10.970 : Curved MPR module:Failed to load input Image
+11:40:10.970 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:11.219 : Curved MPR module:Failed to load input Image
+11:40:11.219 : Curved MPR module:Failed to load input Image
+11:40:11.219 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:11.219 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:12.403 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:12.438 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:12.471 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:12.505 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:12.522 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:12.555 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:12.613 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:12.644 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:12.674 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:12.706 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:12.740 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:12.755 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:12.832 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:12.881 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:13.098 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:13.300 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:13.339 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:13.372 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:13.388 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:13.423 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:13.440 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:13.472 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:13.489 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:13.801 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:13.839 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:13.855 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:13.889 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:13.906 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:13.942 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:13.958 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:13.988 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:14.005 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:14.036 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:14.052 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:14.089 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:14.122 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:43.236 : Curved MPR module:Failed to load input Image
+11:40:43.236 : MiaObliquMPRSlicer:Failed to load input Image
+11:40:51.193 : Curved MPR module:Failed to load input Image
+11:40:54.504 : Intensity mapping:Failed to load input Image
+11:40:54.504 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.504 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.504 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.509 : Intensity mapping:Failed to load input Image
+11:40:54.509 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.509 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.509 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.509 : Intensity mapping:Failed to load input Image
+11:40:54.509 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.509 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.509 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.509 : Intensity mapping:Failed to load input Image
+11:40:54.509 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.509 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.509 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.570 : Intensity mapping:Failed to load input Image
+11:40:54.570 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.570 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.570 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.574 : Intensity mapping:Failed to load input Image
+11:40:54.574 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.574 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.574 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.575 : Intensity mapping:Failed to load input Image
+11:40:54.575 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.575 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.575 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.575 : Intensity mapping:Failed to load input Image
+11:40:54.575 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.575 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.575 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.598 : Intensity mapping:Failed to load input Image
+11:40:54.598 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.598 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.598 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.603 : Intensity mapping:Failed to load input Image
+11:40:54.604 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.604 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.604 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.604 : Intensity mapping:Failed to load input Image
+11:40:54.604 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.604 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.604 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.604 : Intensity mapping:Failed to load input Image
+11:40:54.604 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.604 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.604 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.672 : Intensity mapping:Failed to load input Image
+11:40:54.672 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.672 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.672 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.677 : Intensity mapping:Failed to load input Image
+11:40:54.677 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.677 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.677 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.677 : Intensity mapping:Failed to load input Image
+11:40:54.677 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.677 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.677 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.677 : Intensity mapping:Failed to load input Image
+11:40:54.677 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.677 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.677 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.732 : Intensity mapping:Failed to load input Image
+11:40:54.732 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.732 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.732 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.738 : Intensity mapping:Failed to load input Image
+11:40:54.738 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.738 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.738 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.738 : Intensity mapping:Failed to load input Image
+11:40:54.738 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.738 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.738 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.738 : Intensity mapping:Failed to load input Image
+11:40:54.738 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.738 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.738 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.758 : Intensity mapping:Failed to load input Image
+11:40:54.758 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.758 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.758 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.762 : Intensity mapping:Failed to load input Image
+11:40:54.762 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.762 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.763 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.763 : Intensity mapping:Failed to load input Image
+11:40:54.763 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.763 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.763 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.763 : Intensity mapping:Failed to load input Image
+11:40:54.763 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.763 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.763 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.823 : Intensity mapping:Failed to load input Image
+11:40:54.823 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.823 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.823 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.828 : Intensity mapping:Failed to load input Image
+11:40:54.828 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.828 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.828 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.829 : Intensity mapping:Failed to load input Image
+11:40:54.829 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.829 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.829 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.829 : Intensity mapping:Failed to load input Image
+11:40:54.829 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.829 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.829 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.886 : Intensity mapping:Failed to load input Image
+11:40:54.887 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.887 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.887 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.891 : Intensity mapping:Failed to load input Image
+11:40:54.891 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.891 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.891 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.891 : Intensity mapping:Failed to load input Image
+11:40:54.891 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.891 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.891 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.891 : Intensity mapping:Failed to load input Image
+11:40:54.891 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.891 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.891 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.914 : Intensity mapping:Failed to load input Image
+11:40:54.914 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.914 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.914 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.919 : Intensity mapping:Failed to load input Image
+11:40:54.919 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.919 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.919 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.920 : Intensity mapping:Failed to load input Image
+11:40:54.920 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.920 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.920 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.920 : Intensity mapping:Failed to load input Image
+11:40:54.920 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.920 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.920 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.978 : Intensity mapping:Failed to load input Image
+11:40:54.978 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.978 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.978 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.985 : Intensity mapping:Failed to load input Image
+11:40:54.985 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.985 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.985 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.985 : Intensity mapping:Failed to load input Image
+11:40:54.985 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.985 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.985 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:54.985 : Intensity mapping:Failed to load input Image
+11:40:54.985 : Multi-input Intensity mapping:Failed to load input Image
+11:40:54.985 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:54.985 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.007 : Intensity mapping:Failed to load input Image
+11:40:55.007 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.007 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.007 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.012 : Intensity mapping:Failed to load input Image
+11:40:55.012 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.012 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.012 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.012 : Intensity mapping:Failed to load input Image
+11:40:55.012 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.012 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.012 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.012 : Intensity mapping:Failed to load input Image
+11:40:55.012 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.012 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.012 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.070 : Intensity mapping:Failed to load input Image
+11:40:55.070 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.070 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.070 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.074 : Intensity mapping:Failed to load input Image
+11:40:55.074 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.074 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.074 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.074 : Intensity mapping:Failed to load input Image
+11:40:55.074 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.074 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.074 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.074 : Intensity mapping:Failed to load input Image
+11:40:55.074 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.074 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.074 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.096 : Intensity mapping:Failed to load input Image
+11:40:55.096 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.096 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.097 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.102 : Intensity mapping:Failed to load input Image
+11:40:55.102 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.102 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.102 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.102 : Intensity mapping:Failed to load input Image
+11:40:55.102 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.102 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.102 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.102 : Intensity mapping:Failed to load input Image
+11:40:55.102 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.102 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.102 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.160 : Intensity mapping:Failed to load input Image
+11:40:55.160 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.160 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.160 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.165 : Intensity mapping:Failed to load input Image
+11:40:55.166 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.166 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.166 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.166 : Intensity mapping:Failed to load input Image
+11:40:55.166 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.166 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.166 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.166 : Intensity mapping:Failed to load input Image
+11:40:55.166 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.166 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.166 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.228 : Intensity mapping:Failed to load input Image
+11:40:55.228 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.228 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.228 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.234 : Intensity mapping:Failed to load input Image
+11:40:55.234 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.234 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.234 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.234 : Intensity mapping:Failed to load input Image
+11:40:55.234 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.234 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.234 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.234 : Intensity mapping:Failed to load input Image
+11:40:55.234 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.234 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.234 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.256 : Intensity mapping:Failed to load input Image
+11:40:55.256 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.256 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.256 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.260 : Intensity mapping:Failed to load input Image
+11:40:55.260 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.260 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.260 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.260 : Intensity mapping:Failed to load input Image
+11:40:55.260 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.260 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.260 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.260 : Intensity mapping:Failed to load input Image
+11:40:55.260 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.260 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.260 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.317 : Intensity mapping:Failed to load input Image
+11:40:55.318 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.318 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.318 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.323 : Intensity mapping:Failed to load input Image
+11:40:55.323 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.323 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.323 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.323 : Intensity mapping:Failed to load input Image
+11:40:55.323 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.323 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.323 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.323 : Intensity mapping:Failed to load input Image
+11:40:55.323 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.323 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.323 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.343 : Intensity mapping:Failed to load input Image
+11:40:55.343 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.343 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.343 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.348 : Intensity mapping:Failed to load input Image
+11:40:55.348 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.348 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.348 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.348 : Intensity mapping:Failed to load input Image
+11:40:55.348 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.348 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.348 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.348 : Intensity mapping:Failed to load input Image
+11:40:55.348 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.348 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.348 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.969 : Intensity mapping:Failed to load input Image
+11:40:55.969 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.969 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.969 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.974 : Intensity mapping:Failed to load input Image
+11:40:55.974 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.974 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.974 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.974 : Intensity mapping:Failed to load input Image
+11:40:55.974 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.974 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.974 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:55.974 : Intensity mapping:Failed to load input Image
+11:40:55.974 : Multi-input Intensity mapping:Failed to load input Image
+11:40:55.974 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:55.974 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.026 : Intensity mapping:Failed to load input Image
+11:40:56.026 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.026 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.026 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.030 : Intensity mapping:Failed to load input Image
+11:40:56.030 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.030 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.030 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.030 : Intensity mapping:Failed to load input Image
+11:40:56.030 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.030 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.030 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.030 : Intensity mapping:Failed to load input Image
+11:40:56.030 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.030 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.030 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.053 : Intensity mapping:Failed to load input Image
+11:40:56.053 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.053 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.053 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.058 : Intensity mapping:Failed to load input Image
+11:40:56.058 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.058 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.058 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.058 : Intensity mapping:Failed to load input Image
+11:40:56.058 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.058 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.058 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.058 : Intensity mapping:Failed to load input Image
+11:40:56.059 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.059 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.059 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.114 : Intensity mapping:Failed to load input Image
+11:40:56.114 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.114 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.114 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.121 : Intensity mapping:Failed to load input Image
+11:40:56.121 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.121 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.121 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.121 : Intensity mapping:Failed to load input Image
+11:40:56.121 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.121 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.121 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.122 : Intensity mapping:Failed to load input Image
+11:40:56.122 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.122 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.122 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.145 : Intensity mapping:Failed to load input Image
+11:40:56.145 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.145 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.145 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.150 : Intensity mapping:Failed to load input Image
+11:40:56.150 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.150 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.150 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.150 : Intensity mapping:Failed to load input Image
+11:40:56.150 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.150 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.150 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.150 : Intensity mapping:Failed to load input Image
+11:40:56.150 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.150 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.150 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.208 : Intensity mapping:Failed to load input Image
+11:40:56.208 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.208 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.208 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.213 : Intensity mapping:Failed to load input Image
+11:40:56.213 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.213 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.213 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.213 : Intensity mapping:Failed to load input Image
+11:40:56.213 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.213 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.213 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.213 : Intensity mapping:Failed to load input Image
+11:40:56.213 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.213 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.213 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.233 : Intensity mapping:Failed to load input Image
+11:40:56.234 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.234 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.234 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.238 : Intensity mapping:Failed to load input Image
+11:40:56.238 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.238 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.238 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.238 : Intensity mapping:Failed to load input Image
+11:40:56.238 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.238 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.238 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.238 : Intensity mapping:Failed to load input Image
+11:40:56.238 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.238 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.238 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.291 : Intensity mapping:Failed to load input Image
+11:40:56.291 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.291 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.291 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.296 : Intensity mapping:Failed to load input Image
+11:40:56.296 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.296 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.296 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.296 : Intensity mapping:Failed to load input Image
+11:40:56.296 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.296 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.296 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.296 : Intensity mapping:Failed to load input Image
+11:40:56.296 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.296 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.296 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.418 : Intensity mapping:Failed to load input Image
+11:40:56.418 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.418 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.418 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.422 : Intensity mapping:Failed to load input Image
+11:40:56.422 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.422 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.422 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.422 : Intensity mapping:Failed to load input Image
+11:40:56.422 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.422 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.422 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.422 : Intensity mapping:Failed to load input Image
+11:40:56.422 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.423 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.423 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.474 : Intensity mapping:Failed to load input Image
+11:40:56.474 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.474 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.474 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.479 : Intensity mapping:Failed to load input Image
+11:40:56.479 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.479 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.479 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.479 : Intensity mapping:Failed to load input Image
+11:40:56.479 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.479 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.479 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.479 : Intensity mapping:Failed to load input Image
+11:40:56.479 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.479 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.479 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.502 : Intensity mapping:Failed to load input Image
+11:40:56.502 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.502 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.502 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.507 : Intensity mapping:Failed to load input Image
+11:40:56.507 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.507 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.507 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.507 : Intensity mapping:Failed to load input Image
+11:40:56.507 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.507 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.507 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.507 : Intensity mapping:Failed to load input Image
+11:40:56.507 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.507 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.507 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.562 : Intensity mapping:Failed to load input Image
+11:40:56.562 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.562 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.562 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.568 : Intensity mapping:Failed to load input Image
+11:40:56.568 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.568 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.569 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.569 : Intensity mapping:Failed to load input Image
+11:40:56.569 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.569 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.569 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.569 : Intensity mapping:Failed to load input Image
+11:40:56.569 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.569 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.569 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.592 : Intensity mapping:Failed to load input Image
+11:40:56.592 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.592 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.592 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.596 : Intensity mapping:Failed to load input Image
+11:40:56.596 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.596 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.596 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.596 : Intensity mapping:Failed to load input Image
+11:40:56.596 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.597 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.597 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.597 : Intensity mapping:Failed to load input Image
+11:40:56.597 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.597 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.597 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.657 : Intensity mapping:Failed to load input Image
+11:40:56.657 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.657 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.657 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.661 : Intensity mapping:Failed to load input Image
+11:40:56.661 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.661 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.661 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.661 : Intensity mapping:Failed to load input Image
+11:40:56.661 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.661 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.661 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.661 : Intensity mapping:Failed to load input Image
+11:40:56.661 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.661 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.661 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.683 : Intensity mapping:Failed to load input Image
+11:40:56.683 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.683 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.683 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.688 : Intensity mapping:Failed to load input Image
+11:40:56.688 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.688 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.688 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.688 : Intensity mapping:Failed to load input Image
+11:40:56.688 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.688 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.688 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.688 : Intensity mapping:Failed to load input Image
+11:40:56.688 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.688 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.688 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.742 : Intensity mapping:Failed to load input Image
+11:40:56.742 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.742 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.742 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.747 : Intensity mapping:Failed to load input Image
+11:40:56.747 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.747 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.747 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.747 : Intensity mapping:Failed to load input Image
+11:40:56.747 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.747 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.747 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.747 : Intensity mapping:Failed to load input Image
+11:40:56.747 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.747 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.747 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.902 : Intensity mapping:Failed to load input Image
+11:40:56.902 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.902 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.902 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.907 : Intensity mapping:Failed to load input Image
+11:40:56.907 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.907 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.907 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.907 : Intensity mapping:Failed to load input Image
+11:40:56.907 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.907 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.907 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.907 : Intensity mapping:Failed to load input Image
+11:40:56.907 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.907 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.907 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.959 : Intensity mapping:Failed to load input Image
+11:40:56.959 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.959 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.959 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.964 : Intensity mapping:Failed to load input Image
+11:40:56.964 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.964 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.964 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.964 : Intensity mapping:Failed to load input Image
+11:40:56.964 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.964 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.964 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.964 : Intensity mapping:Failed to load input Image
+11:40:56.964 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.964 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.964 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.986 : Intensity mapping:Failed to load input Image
+11:40:56.986 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.986 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.986 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.991 : Intensity mapping:Failed to load input Image
+11:40:56.991 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.991 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.991 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.991 : Intensity mapping:Failed to load input Image
+11:40:56.991 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.991 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.991 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:56.991 : Intensity mapping:Failed to load input Image
+11:40:56.991 : Multi-input Intensity mapping:Failed to load input Image
+11:40:56.991 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:56.991 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.044 : Intensity mapping:Failed to load input Image
+11:40:57.045 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.045 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.045 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.050 : Intensity mapping:Failed to load input Image
+11:40:57.050 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.050 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.050 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.050 : Intensity mapping:Failed to load input Image
+11:40:57.050 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.050 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.050 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.050 : Intensity mapping:Failed to load input Image
+11:40:57.050 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.050 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.050 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.072 : Intensity mapping:Failed to load input Image
+11:40:57.072 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.072 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.072 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.076 : Intensity mapping:Failed to load input Image
+11:40:57.076 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.076 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.076 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.076 : Intensity mapping:Failed to load input Image
+11:40:57.076 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.076 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.076 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.077 : Intensity mapping:Failed to load input Image
+11:40:57.077 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.077 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.077 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.134 : Intensity mapping:Failed to load input Image
+11:40:57.134 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.135 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.135 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.141 : Intensity mapping:Failed to load input Image
+11:40:57.141 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.141 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.141 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.141 : Intensity mapping:Failed to load input Image
+11:40:57.141 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.141 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.141 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.141 : Intensity mapping:Failed to load input Image
+11:40:57.141 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.141 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.141 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.164 : Intensity mapping:Failed to load input Image
+11:40:57.164 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.164 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.164 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.169 : Intensity mapping:Failed to load input Image
+11:40:57.169 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.169 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.169 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.169 : Intensity mapping:Failed to load input Image
+11:40:57.169 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.169 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.169 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.169 : Intensity mapping:Failed to load input Image
+11:40:57.169 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.170 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.170 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.233 : Intensity mapping:Failed to load input Image
+11:40:57.233 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.233 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.233 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.240 : Intensity mapping:Failed to load input Image
+11:40:57.240 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.240 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.240 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.240 : Intensity mapping:Failed to load input Image
+11:40:57.240 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.240 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.240 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.240 : Intensity mapping:Failed to load input Image
+11:40:57.240 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.240 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.240 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.293 : Intensity mapping:Failed to load input Image
+11:40:57.293 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.293 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.293 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.298 : Intensity mapping:Failed to load input Image
+11:40:57.298 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.298 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.298 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.298 : Intensity mapping:Failed to load input Image
+11:40:57.298 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.298 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.298 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.298 : Intensity mapping:Failed to load input Image
+11:40:57.298 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.298 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.298 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.357 : Intensity mapping:Failed to load input Image
+11:40:57.357 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.357 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.357 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.362 : Intensity mapping:Failed to load input Image
+11:40:57.362 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.362 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.362 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.362 : Intensity mapping:Failed to load input Image
+11:40:57.362 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.362 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.362 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.362 : Intensity mapping:Failed to load input Image
+11:40:57.362 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.362 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.362 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.418 : Intensity mapping:Failed to load input Image
+11:40:57.418 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.418 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.418 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.424 : Intensity mapping:Failed to load input Image
+11:40:57.424 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.424 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.424 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.424 : Intensity mapping:Failed to load input Image
+11:40:57.424 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.424 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.424 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.425 : Intensity mapping:Failed to load input Image
+11:40:57.425 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.425 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.425 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.447 : Intensity mapping:Failed to load input Image
+11:40:57.447 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.447 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.447 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.452 : Intensity mapping:Failed to load input Image
+11:40:57.452 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.452 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.452 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.452 : Intensity mapping:Failed to load input Image
+11:40:57.452 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.452 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.452 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.452 : Intensity mapping:Failed to load input Image
+11:40:57.452 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.452 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.452 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.513 : Intensity mapping:Failed to load input Image
+11:40:57.513 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.513 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.513 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.518 : Intensity mapping:Failed to load input Image
+11:40:57.518 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.518 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.518 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.518 : Intensity mapping:Failed to load input Image
+11:40:57.518 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.518 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.518 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.518 : Intensity mapping:Failed to load input Image
+11:40:57.518 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.518 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.518 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.542 : Intensity mapping:Failed to load input Image
+11:40:57.542 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.542 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.542 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.547 : Intensity mapping:Failed to load input Image
+11:40:57.547 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.547 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.547 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.547 : Intensity mapping:Failed to load input Image
+11:40:57.547 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.547 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.547 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.547 : Intensity mapping:Failed to load input Image
+11:40:57.547 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.547 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.547 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.605 : Intensity mapping:Failed to load input Image
+11:40:57.605 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.605 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.605 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.609 : Intensity mapping:Failed to load input Image
+11:40:57.609 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.609 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.609 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.609 : Intensity mapping:Failed to load input Image
+11:40:57.609 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.609 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.609 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.609 : Intensity mapping:Failed to load input Image
+11:40:57.609 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.610 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.610 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.663 : Intensity mapping:Failed to load input Image
+11:40:57.663 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.663 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.663 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.670 : Intensity mapping:Failed to load input Image
+11:40:57.670 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.670 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.670 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.670 : Intensity mapping:Failed to load input Image
+11:40:57.670 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.670 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.670 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.670 : Intensity mapping:Failed to load input Image
+11:40:57.670 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.670 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.670 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.725 : Intensity mapping:Failed to load input Image
+11:40:57.725 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.725 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.725 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.729 : Intensity mapping:Failed to load input Image
+11:40:57.729 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.729 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.729 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.729 : Intensity mapping:Failed to load input Image
+11:40:57.729 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.729 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.729 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.729 : Intensity mapping:Failed to load input Image
+11:40:57.729 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.729 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.729 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.792 : Intensity mapping:Failed to load input Image
+11:40:57.792 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.792 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.792 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.796 : Intensity mapping:Failed to load input Image
+11:40:57.796 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.796 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.796 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.796 : Intensity mapping:Failed to load input Image
+11:40:57.796 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.796 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.796 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.796 : Intensity mapping:Failed to load input Image
+11:40:57.796 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.796 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.797 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.840 : Intensity mapping:Failed to load input Image
+11:40:57.840 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.840 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.840 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.845 : Intensity mapping:Failed to load input Image
+11:40:57.845 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.845 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.845 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.845 : Intensity mapping:Failed to load input Image
+11:40:57.845 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.845 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.845 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.845 : Intensity mapping:Failed to load input Image
+11:40:57.845 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.845 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.845 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.865 : Intensity mapping:Failed to load input Image
+11:40:57.865 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.865 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.865 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.869 : Intensity mapping:Failed to load input Image
+11:40:57.869 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.870 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.870 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.870 : Intensity mapping:Failed to load input Image
+11:40:57.870 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.870 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.870 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.870 : Intensity mapping:Failed to load input Image
+11:40:57.870 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.870 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.870 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.944 : Intensity mapping:Failed to load input Image
+11:40:57.944 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.944 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.944 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.950 : Intensity mapping:Failed to load input Image
+11:40:57.950 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.950 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.950 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.950 : Intensity mapping:Failed to load input Image
+11:40:57.950 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.950 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.950 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.950 : Intensity mapping:Failed to load input Image
+11:40:57.950 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.950 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.950 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.975 : Intensity mapping:Failed to load input Image
+11:40:57.975 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.975 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.975 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.980 : Intensity mapping:Failed to load input Image
+11:40:57.980 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.980 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.980 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.980 : Intensity mapping:Failed to load input Image
+11:40:57.980 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.980 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.980 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:57.980 : Intensity mapping:Failed to load input Image
+11:40:57.980 : Multi-input Intensity mapping:Failed to load input Image
+11:40:57.980 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:57.980 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.038 : Intensity mapping:Failed to load input Image
+11:40:58.038 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.038 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.038 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.042 : Intensity mapping:Failed to load input Image
+11:40:58.042 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.042 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.043 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.043 : Intensity mapping:Failed to load input Image
+11:40:58.043 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.043 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.043 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.043 : Intensity mapping:Failed to load input Image
+11:40:58.043 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.043 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.043 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.211 : Intensity mapping:Failed to load input Image
+11:40:58.211 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.211 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.211 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.216 : Intensity mapping:Failed to load input Image
+11:40:58.216 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.216 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.216 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.216 : Intensity mapping:Failed to load input Image
+11:40:58.216 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.216 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.216 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.216 : Intensity mapping:Failed to load input Image
+11:40:58.216 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.216 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.216 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.270 : Intensity mapping:Failed to load input Image
+11:40:58.270 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.270 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.270 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.275 : Intensity mapping:Failed to load input Image
+11:40:58.275 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.275 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.275 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.275 : Intensity mapping:Failed to load input Image
+11:40:58.275 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.275 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.275 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.275 : Intensity mapping:Failed to load input Image
+11:40:58.275 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.276 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.276 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.296 : Intensity mapping:Failed to load input Image
+11:40:58.296 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.296 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.296 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.301 : Intensity mapping:Failed to load input Image
+11:40:58.301 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.301 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.301 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.301 : Intensity mapping:Failed to load input Image
+11:40:58.301 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.301 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.301 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.301 : Intensity mapping:Failed to load input Image
+11:40:58.301 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.301 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.301 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.356 : Intensity mapping:Failed to load input Image
+11:40:58.357 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.357 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.357 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.361 : Intensity mapping:Failed to load input Image
+11:40:58.361 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.361 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.361 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.361 : Intensity mapping:Failed to load input Image
+11:40:58.361 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.361 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.361 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.361 : Intensity mapping:Failed to load input Image
+11:40:58.361 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.361 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.361 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.382 : Intensity mapping:Failed to load input Image
+11:40:58.382 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.382 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.382 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.387 : Intensity mapping:Failed to load input Image
+11:40:58.387 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.387 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.387 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.387 : Intensity mapping:Failed to load input Image
+11:40:58.387 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.387 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.387 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.387 : Intensity mapping:Failed to load input Image
+11:40:58.387 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.387 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.387 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.446 : Intensity mapping:Failed to load input Image
+11:40:58.446 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.446 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.446 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.452 : Intensity mapping:Failed to load input Image
+11:40:58.453 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.453 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.453 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.453 : Intensity mapping:Failed to load input Image
+11:40:58.453 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.453 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.453 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.453 : Intensity mapping:Failed to load input Image
+11:40:58.453 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.453 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.453 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.474 : Intensity mapping:Failed to load input Image
+11:40:58.475 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.475 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.475 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.479 : Intensity mapping:Failed to load input Image
+11:40:58.479 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.479 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.479 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.479 : Intensity mapping:Failed to load input Image
+11:40:58.479 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.479 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.479 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.479 : Intensity mapping:Failed to load input Image
+11:40:58.479 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.479 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.479 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.539 : Intensity mapping:Failed to load input Image
+11:40:58.539 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.539 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.539 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.543 : Intensity mapping:Failed to load input Image
+11:40:58.543 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.543 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.543 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.543 : Intensity mapping:Failed to load input Image
+11:40:58.543 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.543 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.543 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.543 : Intensity mapping:Failed to load input Image
+11:40:58.543 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.543 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.543 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.597 : Intensity mapping:Failed to load input Image
+11:40:58.597 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.597 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.597 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.604 : Intensity mapping:Failed to load input Image
+11:40:58.604 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.604 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.604 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.604 : Intensity mapping:Failed to load input Image
+11:40:58.604 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.604 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.604 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.605 : Intensity mapping:Failed to load input Image
+11:40:58.605 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.605 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.605 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.662 : Intensity mapping:Failed to load input Image
+11:40:58.662 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.662 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.662 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.668 : Intensity mapping:Failed to load input Image
+11:40:58.668 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.668 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.668 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.668 : Intensity mapping:Failed to load input Image
+11:40:58.668 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.669 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.669 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.669 : Intensity mapping:Failed to load input Image
+11:40:58.669 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.669 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.669 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.725 : Intensity mapping:Failed to load input Image
+11:40:58.725 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.725 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.725 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.730 : Intensity mapping:Failed to load input Image
+11:40:58.730 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.730 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.730 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.730 : Intensity mapping:Failed to load input Image
+11:40:58.730 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.730 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.730 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.730 : Intensity mapping:Failed to load input Image
+11:40:58.730 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.730 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.730 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.751 : Intensity mapping:Failed to load input Image
+11:40:58.751 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.751 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.751 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.755 : Intensity mapping:Failed to load input Image
+11:40:58.755 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.755 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.755 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.755 : Intensity mapping:Failed to load input Image
+11:40:58.755 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.755 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.755 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.756 : Intensity mapping:Failed to load input Image
+11:40:58.756 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.756 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.756 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.814 : Intensity mapping:Failed to load input Image
+11:40:58.814 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.814 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.814 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.821 : Intensity mapping:Failed to load input Image
+11:40:58.821 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.822 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.822 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.822 : Intensity mapping:Failed to load input Image
+11:40:58.822 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.822 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.822 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.822 : Intensity mapping:Failed to load input Image
+11:40:58.822 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.822 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.822 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.842 : Intensity mapping:Failed to load input Image
+11:40:58.842 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.842 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.842 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.847 : Intensity mapping:Failed to load input Image
+11:40:58.847 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.847 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.847 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.847 : Intensity mapping:Failed to load input Image
+11:40:58.847 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.847 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.847 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.847 : Intensity mapping:Failed to load input Image
+11:40:58.847 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.847 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.847 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.904 : Intensity mapping:Failed to load input Image
+11:40:58.904 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.904 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.904 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.911 : Intensity mapping:Failed to load input Image
+11:40:58.911 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.911 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.911 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.911 : Intensity mapping:Failed to load input Image
+11:40:58.911 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.911 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.911 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.911 : Intensity mapping:Failed to load input Image
+11:40:58.912 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.912 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.912 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.965 : Intensity mapping:Failed to load input Image
+11:40:58.965 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.965 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.965 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.969 : Intensity mapping:Failed to load input Image
+11:40:58.969 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.970 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.970 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.970 : Intensity mapping:Failed to load input Image
+11:40:58.970 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.970 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.970 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:58.970 : Intensity mapping:Failed to load input Image
+11:40:58.970 : Multi-input Intensity mapping:Failed to load input Image
+11:40:58.970 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:58.970 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.031 : Intensity mapping:Failed to load input Image
+11:40:59.031 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.031 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.031 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.036 : Intensity mapping:Failed to load input Image
+11:40:59.036 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.036 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.036 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.036 : Intensity mapping:Failed to load input Image
+11:40:59.036 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.036 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.036 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.037 : Intensity mapping:Failed to load input Image
+11:40:59.037 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.037 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.037 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.096 : Intensity mapping:Failed to load input Image
+11:40:59.096 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.096 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.096 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.101 : Intensity mapping:Failed to load input Image
+11:40:59.101 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.101 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.101 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.101 : Intensity mapping:Failed to load input Image
+11:40:59.101 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.101 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.101 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.101 : Intensity mapping:Failed to load input Image
+11:40:59.101 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.101 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.101 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.124 : Intensity mapping:Failed to load input Image
+11:40:59.124 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.124 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.124 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.129 : Intensity mapping:Failed to load input Image
+11:40:59.129 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.129 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.129 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.129 : Intensity mapping:Failed to load input Image
+11:40:59.129 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.129 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.129 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.129 : Intensity mapping:Failed to load input Image
+11:40:59.129 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.129 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.129 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.186 : Intensity mapping:Failed to load input Image
+11:40:59.186 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.186 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.186 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.193 : Intensity mapping:Failed to load input Image
+11:40:59.193 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.193 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.193 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.193 : Intensity mapping:Failed to load input Image
+11:40:59.193 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.193 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.193 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.193 : Intensity mapping:Failed to load input Image
+11:40:59.193 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.193 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.193 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.214 : Intensity mapping:Failed to load input Image
+11:40:59.214 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.214 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.214 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.220 : Intensity mapping:Failed to load input Image
+11:40:59.220 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.220 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.220 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.220 : Intensity mapping:Failed to load input Image
+11:40:59.220 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.220 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.220 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.220 : Intensity mapping:Failed to load input Image
+11:40:59.220 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.220 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.220 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.279 : Intensity mapping:Failed to load input Image
+11:40:59.279 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.279 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.279 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.284 : Intensity mapping:Failed to load input Image
+11:40:59.284 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.284 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.284 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.284 : Intensity mapping:Failed to load input Image
+11:40:59.284 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.284 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.284 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.284 : Intensity mapping:Failed to load input Image
+11:40:59.284 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.284 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.284 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.340 : Intensity mapping:Failed to load input Image
+11:40:59.340 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.340 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.340 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.347 : Intensity mapping:Failed to load input Image
+11:40:59.347 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.347 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.347 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.347 : Intensity mapping:Failed to load input Image
+11:40:59.347 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.347 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.347 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.347 : Intensity mapping:Failed to load input Image
+11:40:59.347 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.347 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.347 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.402 : Intensity mapping:Failed to load input Image
+11:40:59.402 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.402 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.402 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.409 : Intensity mapping:Failed to load input Image
+11:40:59.409 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.409 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.409 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.409 : Intensity mapping:Failed to load input Image
+11:40:59.409 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.409 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.409 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.410 : Intensity mapping:Failed to load input Image
+11:40:59.410 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.410 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.410 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.463 : Intensity mapping:Failed to load input Image
+11:40:59.463 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.463 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.463 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.468 : Intensity mapping:Failed to load input Image
+11:40:59.468 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.468 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.468 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.468 : Intensity mapping:Failed to load input Image
+11:40:59.468 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.468 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.468 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.468 : Intensity mapping:Failed to load input Image
+11:40:59.468 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.468 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.468 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.494 : Intensity mapping:Failed to load input Image
+11:40:59.494 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.494 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.494 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.499 : Intensity mapping:Failed to load input Image
+11:40:59.499 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.499 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.499 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.499 : Intensity mapping:Failed to load input Image
+11:40:59.499 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.499 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.499 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.499 : Intensity mapping:Failed to load input Image
+11:40:59.499 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.499 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.499 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.557 : Intensity mapping:Failed to load input Image
+11:40:59.557 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.557 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.557 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.564 : Intensity mapping:Failed to load input Image
+11:40:59.564 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.564 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.564 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.564 : Intensity mapping:Failed to load input Image
+11:40:59.564 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.564 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.564 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.564 : Intensity mapping:Failed to load input Image
+11:40:59.564 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.564 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.564 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.587 : Intensity mapping:Failed to load input Image
+11:40:59.587 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.587 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.587 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.592 : Intensity mapping:Failed to load input Image
+11:40:59.592 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.592 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.592 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.592 : Intensity mapping:Failed to load input Image
+11:40:59.592 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.592 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.592 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.593 : Intensity mapping:Failed to load input Image
+11:40:59.593 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.593 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.593 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.653 : Intensity mapping:Failed to load input Image
+11:40:59.653 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.653 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.653 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.660 : Intensity mapping:Failed to load input Image
+11:40:59.660 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.660 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.660 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.660 : Intensity mapping:Failed to load input Image
+11:40:59.660 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.660 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.660 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.660 : Intensity mapping:Failed to load input Image
+11:40:59.660 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.660 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.660 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.714 : Intensity mapping:Failed to load input Image
+11:40:59.714 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.714 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.714 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.718 : Intensity mapping:Failed to load input Image
+11:40:59.718 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.718 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.718 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.718 : Intensity mapping:Failed to load input Image
+11:40:59.718 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.719 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.719 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.719 : Intensity mapping:Failed to load input Image
+11:40:59.719 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.719 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.719 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.780 : Intensity mapping:Failed to load input Image
+11:40:59.780 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.780 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.780 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.784 : Intensity mapping:Failed to load input Image
+11:40:59.785 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.785 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.785 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.785 : Intensity mapping:Failed to load input Image
+11:40:59.785 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.785 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.785 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.785 : Intensity mapping:Failed to load input Image
+11:40:59.785 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.785 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.785 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.838 : Intensity mapping:Failed to load input Image
+11:40:59.838 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.839 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.839 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.846 : Intensity mapping:Failed to load input Image
+11:40:59.846 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.846 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.846 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.846 : Intensity mapping:Failed to load input Image
+11:40:59.846 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.846 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.846 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.846 : Intensity mapping:Failed to load input Image
+11:40:59.846 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.846 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.846 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.868 : Intensity mapping:Failed to load input Image
+11:40:59.868 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.868 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.868 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.874 : Intensity mapping:Failed to load input Image
+11:40:59.874 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.874 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.874 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.874 : Intensity mapping:Failed to load input Image
+11:40:59.874 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.874 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.874 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.874 : Intensity mapping:Failed to load input Image
+11:40:59.874 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.874 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.874 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.932 : Intensity mapping:Failed to load input Image
+11:40:59.932 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.932 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.932 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.936 : Intensity mapping:Failed to load input Image
+11:40:59.936 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.936 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.936 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.936 : Intensity mapping:Failed to load input Image
+11:40:59.936 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.937 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.937 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.937 : Intensity mapping:Failed to load input Image
+11:40:59.937 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.937 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.937 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.958 : Intensity mapping:Failed to load input Image
+11:40:59.958 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.958 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.958 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.962 : Intensity mapping:Failed to load input Image
+11:40:59.962 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.962 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.962 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.962 : Intensity mapping:Failed to load input Image
+11:40:59.962 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.962 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.962 : MiaOrthogonalSlicer:Failed to load input Image
+11:40:59.963 : Intensity mapping:Failed to load input Image
+11:40:59.963 : Multi-input Intensity mapping:Failed to load input Image
+11:40:59.963 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:40:59.963 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.019 : Intensity mapping:Failed to load input Image
+11:41:00.019 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.019 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.019 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.027 : Intensity mapping:Failed to load input Image
+11:41:00.027 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.027 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.027 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.027 : Intensity mapping:Failed to load input Image
+11:41:00.027 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.027 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.027 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.027 : Intensity mapping:Failed to load input Image
+11:41:00.027 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.027 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.027 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.080 : Intensity mapping:Failed to load input Image
+11:41:00.080 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.080 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.080 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.085 : Intensity mapping:Failed to load input Image
+11:41:00.085 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.085 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.085 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.085 : Intensity mapping:Failed to load input Image
+11:41:00.085 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.085 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.085 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.085 : Intensity mapping:Failed to load input Image
+11:41:00.085 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.085 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.085 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.146 : Intensity mapping:Failed to load input Image
+11:41:00.146 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.146 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.146 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.151 : Intensity mapping:Failed to load input Image
+11:41:00.151 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.151 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.151 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.151 : Intensity mapping:Failed to load input Image
+11:41:00.151 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.151 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.151 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.151 : Intensity mapping:Failed to load input Image
+11:41:00.151 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.151 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.151 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.191 : Intensity mapping:Failed to load input Image
+11:41:00.191 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.191 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.191 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.196 : Intensity mapping:Failed to load input Image
+11:41:00.196 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.196 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.196 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.196 : Intensity mapping:Failed to load input Image
+11:41:00.196 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.196 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.196 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.196 : Intensity mapping:Failed to load input Image
+11:41:00.196 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.196 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.196 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.218 : Intensity mapping:Failed to load input Image
+11:41:00.218 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.218 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.218 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.223 : Intensity mapping:Failed to load input Image
+11:41:00.223 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.223 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.223 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.223 : Intensity mapping:Failed to load input Image
+11:41:00.223 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.223 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.223 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.223 : Intensity mapping:Failed to load input Image
+11:41:00.223 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.223 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.223 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.301 : Intensity mapping:Failed to load input Image
+11:41:00.301 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.301 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.301 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.306 : Intensity mapping:Failed to load input Image
+11:41:00.306 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.306 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.306 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.306 : Intensity mapping:Failed to load input Image
+11:41:00.306 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.306 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.306 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.306 : Intensity mapping:Failed to load input Image
+11:41:00.306 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.306 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.306 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.328 : Intensity mapping:Failed to load input Image
+11:41:00.328 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.328 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.328 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.333 : Intensity mapping:Failed to load input Image
+11:41:00.333 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.333 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.333 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.334 : Intensity mapping:Failed to load input Image
+11:41:00.334 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.334 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.334 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.334 : Intensity mapping:Failed to load input Image
+11:41:00.334 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.334 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.334 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.392 : Intensity mapping:Failed to load input Image
+11:41:00.392 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.392 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.393 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.398 : Intensity mapping:Failed to load input Image
+11:41:00.398 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.398 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.398 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.398 : Intensity mapping:Failed to load input Image
+11:41:00.398 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.398 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.398 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.398 : Intensity mapping:Failed to load input Image
+11:41:00.398 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.398 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.398 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.451 : Intensity mapping:Failed to load input Image
+11:41:00.451 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.451 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.451 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.456 : Intensity mapping:Failed to load input Image
+11:41:00.456 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.456 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.456 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.456 : Intensity mapping:Failed to load input Image
+11:41:00.456 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.456 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.456 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.456 : Intensity mapping:Failed to load input Image
+11:41:00.456 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.456 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.456 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.515 : Intensity mapping:Failed to load input Image
+11:41:00.515 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.515 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.515 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.519 : Intensity mapping:Failed to load input Image
+11:41:00.519 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.519 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.519 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.519 : Intensity mapping:Failed to load input Image
+11:41:00.519 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.519 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.519 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.519 : Intensity mapping:Failed to load input Image
+11:41:00.519 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.519 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.519 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.543 : Intensity mapping:Failed to load input Image
+11:41:00.543 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.543 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.543 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.547 : Intensity mapping:Failed to load input Image
+11:41:00.548 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.548 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.548 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.548 : Intensity mapping:Failed to load input Image
+11:41:00.548 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.548 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.548 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.548 : Intensity mapping:Failed to load input Image
+11:41:00.548 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.548 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.548 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.589 : Intensity mapping:Failed to load input Image
+11:41:00.589 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.589 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.589 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.594 : Intensity mapping:Failed to load input Image
+11:41:00.594 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.594 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.594 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.594 : Intensity mapping:Failed to load input Image
+11:41:00.594 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.594 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.594 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.594 : Intensity mapping:Failed to load input Image
+11:41:00.594 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.594 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.594 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.617 : Intensity mapping:Failed to load input Image
+11:41:00.617 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.617 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.617 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.621 : Intensity mapping:Failed to load input Image
+11:41:00.621 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.621 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.621 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.621 : Intensity mapping:Failed to load input Image
+11:41:00.621 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.621 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.621 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.621 : Intensity mapping:Failed to load input Image
+11:41:00.621 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.621 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.621 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.698 : Intensity mapping:Failed to load input Image
+11:41:00.698 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.698 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.698 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.703 : Intensity mapping:Failed to load input Image
+11:41:00.703 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.703 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.703 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.703 : Intensity mapping:Failed to load input Image
+11:41:00.703 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.703 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.703 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.703 : Intensity mapping:Failed to load input Image
+11:41:00.703 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.703 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.703 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.759 : Intensity mapping:Failed to load input Image
+11:41:00.759 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.759 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.759 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.765 : Intensity mapping:Failed to load input Image
+11:41:00.765 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.765 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.765 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.765 : Intensity mapping:Failed to load input Image
+11:41:00.765 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.765 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.765 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.765 : Intensity mapping:Failed to load input Image
+11:41:00.765 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.765 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.765 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.819 : Intensity mapping:Failed to load input Image
+11:41:00.820 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.820 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.820 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.826 : Intensity mapping:Failed to load input Image
+11:41:00.827 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.827 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.827 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.827 : Intensity mapping:Failed to load input Image
+11:41:00.827 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.827 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.827 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.827 : Intensity mapping:Failed to load input Image
+11:41:00.827 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.827 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.827 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.887 : Intensity mapping:Failed to load input Image
+11:41:00.887 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.887 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.887 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.891 : Intensity mapping:Failed to load input Image
+11:41:00.891 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.891 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.892 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.892 : Intensity mapping:Failed to load input Image
+11:41:00.892 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.892 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.892 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.892 : Intensity mapping:Failed to load input Image
+11:41:00.892 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.892 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.892 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.948 : Intensity mapping:Failed to load input Image
+11:41:00.948 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.948 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.948 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.953 : Intensity mapping:Failed to load input Image
+11:41:00.953 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.953 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.953 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.953 : Intensity mapping:Failed to load input Image
+11:41:00.953 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.953 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.953 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.953 : Intensity mapping:Failed to load input Image
+11:41:00.953 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.953 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.953 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.977 : Intensity mapping:Failed to load input Image
+11:41:00.977 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.977 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.977 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.981 : Intensity mapping:Failed to load input Image
+11:41:00.981 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.981 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.981 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.981 : Intensity mapping:Failed to load input Image
+11:41:00.981 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.981 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.981 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:00.981 : Intensity mapping:Failed to load input Image
+11:41:00.981 : Multi-input Intensity mapping:Failed to load input Image
+11:41:00.981 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:00.981 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.041 : Intensity mapping:Failed to load input Image
+11:41:01.041 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.041 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.041 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.047 : Intensity mapping:Failed to load input Image
+11:41:01.047 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.047 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.047 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.047 : Intensity mapping:Failed to load input Image
+11:41:01.047 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.047 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.047 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.047 : Intensity mapping:Failed to load input Image
+11:41:01.047 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.047 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.047 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.067 : Intensity mapping:Failed to load input Image
+11:41:01.067 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.067 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.067 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.072 : Intensity mapping:Failed to load input Image
+11:41:01.072 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.072 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.072 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.072 : Intensity mapping:Failed to load input Image
+11:41:01.072 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.072 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.072 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.072 : Intensity mapping:Failed to load input Image
+11:41:01.072 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.072 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.072 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.238 : Intensity mapping:Failed to load input Image
+11:41:01.238 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.238 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.238 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.242 : Intensity mapping:Failed to load input Image
+11:41:01.242 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.242 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.242 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.242 : Intensity mapping:Failed to load input Image
+11:41:01.242 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.242 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.243 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.243 : Intensity mapping:Failed to load input Image
+11:41:01.243 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.243 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.243 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.297 : Intensity mapping:Failed to load input Image
+11:41:01.297 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.297 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.297 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.301 : Intensity mapping:Failed to load input Image
+11:41:01.301 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.301 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.301 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.301 : Intensity mapping:Failed to load input Image
+11:41:01.302 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.302 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.302 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.302 : Intensity mapping:Failed to load input Image
+11:41:01.302 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.302 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.302 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.323 : Intensity mapping:Failed to load input Image
+11:41:01.323 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.323 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.323 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.327 : Intensity mapping:Failed to load input Image
+11:41:01.327 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.327 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.327 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.327 : Intensity mapping:Failed to load input Image
+11:41:01.327 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.328 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.328 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.328 : Intensity mapping:Failed to load input Image
+11:41:01.328 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.328 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.328 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.384 : Intensity mapping:Failed to load input Image
+11:41:01.385 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.385 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.385 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.390 : Intensity mapping:Failed to load input Image
+11:41:01.390 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.390 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.390 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.390 : Intensity mapping:Failed to load input Image
+11:41:01.390 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.390 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.390 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.390 : Intensity mapping:Failed to load input Image
+11:41:01.390 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.391 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.391 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.413 : Intensity mapping:Failed to load input Image
+11:41:01.413 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.413 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.413 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.417 : Intensity mapping:Failed to load input Image
+11:41:01.417 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.417 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.417 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.418 : Intensity mapping:Failed to load input Image
+11:41:01.418 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.418 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.418 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.418 : Intensity mapping:Failed to load input Image
+11:41:01.418 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.418 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.418 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.476 : Intensity mapping:Failed to load input Image
+11:41:01.476 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.476 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.476 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.481 : Intensity mapping:Failed to load input Image
+11:41:01.481 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.481 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.481 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.481 : Intensity mapping:Failed to load input Image
+11:41:01.481 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.481 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.481 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.481 : Intensity mapping:Failed to load input Image
+11:41:01.481 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.481 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.481 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.502 : Intensity mapping:Failed to load input Image
+11:41:01.502 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.502 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.503 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.507 : Intensity mapping:Failed to load input Image
+11:41:01.507 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.507 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.507 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.507 : Intensity mapping:Failed to load input Image
+11:41:01.507 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.507 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.507 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:01.507 : Intensity mapping:Failed to load input Image
+11:41:01.507 : Multi-input Intensity mapping:Failed to load input Image
+11:41:01.507 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:41:01.507 : MiaOrthogonalSlicer:Failed to load input Image
+11:41:13.025 : Fast matching: loading image: time elapsed: 0
+11:41:13.913 : Fast matching:processing: time elapsed: 888
+11:41:18.375 : Fast matching: loading image: time elapsed: 0
+11:41:19.128 : Fast matching:processing: time elapsed: 753
+11:41:19.475 : Fast matching: loading image: time elapsed: 0
+11:41:19.989 : Fast matching:processing: time elapsed: 514
+11:41:20.712 : Fast matching:Failed to load input Image
+11:41:20.872 : Fast matching: loading image: time elapsed: 10
+11:41:21.779 : Fast matching:processing: time elapsed: 917
+11:41:26.343 : Fast matching: loading image: time elapsed: 10
+11:41:27.043 : Fast matching:processing: time elapsed: 710
+11:41:27.433 : Fast matching: loading image: time elapsed: 10
+11:41:27.933 : Fast matching:processing: time elapsed: 510
+11:41:28.458 : Fast matching:Failed to load input Image
+11:41:28.617 : Fast matching: loading image: time elapsed: 10
+11:41:29.568 : Fast matching:processing: time elapsed: 961
+11:41:34.480 : Fast matching: loading image: time elapsed: 9
+11:41:35.194 : Fast matching:processing: time elapsed: 723
+11:41:35.539 : Fast matching: loading image: time elapsed: 10
+11:41:36.000 : Fast matching:processing: time elapsed: 471
+11:41:36.502 : Fast matching:Failed to load input Image
+11:41:36.660 : Fast matching: loading image: time elapsed: 10
+11:41:37.620 : Fast matching:processing: time elapsed: 970
+11:41:42.617 : Fast matching: loading image: time elapsed: 12
+11:41:43.319 : Fast matching:processing: time elapsed: 714
+11:41:43.665 : Fast matching: loading image: time elapsed: 10
+11:41:44.135 : Fast matching:processing: time elapsed: 480
+11:41:44.641 : Fast matching:Failed to load input Image
+11:41:44.797 : Fast matching: loading image: time elapsed: 9
+11:41:45.775 : Fast matching:processing: time elapsed: 987
+11:41:50.904 : Fast matching: loading image: time elapsed: 13
+11:41:51.630 : Fast matching:processing: time elapsed: 739
+11:41:51.982 : Fast matching: loading image: time elapsed: 10
+11:41:52.454 : Fast matching:processing: time elapsed: 482
+11:41:52.966 : Fast matching:Failed to load input Image
+11:41:53.123 : Fast matching: loading image: time elapsed: 9
+11:41:54.134 : Fast matching:processing: time elapsed: 1020
+11:41:59.377 : Fast matching: loading image: time elapsed: 12
+11:42:00.099 : Fast matching:processing: time elapsed: 734
+11:42:00.451 : Fast matching: loading image: time elapsed: 10
+11:42:00.926 : Fast matching:processing: time elapsed: 485
+11:42:01.429 : Fast matching:Failed to load input Image
+11:42:01.586 : Fast matching: loading image: time elapsed: 10
+11:42:02.623 : Fast matching:processing: time elapsed: 1047
+11:42:07.931 : Fast matching: loading image: time elapsed: 13
+11:42:08.662 : Fast matching:processing: time elapsed: 744
+11:42:09.016 : Fast matching: loading image: time elapsed: 9
+11:42:09.493 : Fast matching:processing: time elapsed: 486
+11:42:10.009 : Fast matching:Failed to load input Image
+11:42:10.166 : Fast matching: loading image: time elapsed: 10
+11:42:11.210 : Fast matching:processing: time elapsed: 1054
+11:42:16.635 : Fast matching: loading image: time elapsed: 10
+11:42:17.362 : Fast matching:processing: time elapsed: 738
+11:42:17.720 : Fast matching: loading image: time elapsed: 10
+11:42:18.205 : Fast matching:processing: time elapsed: 495
+11:42:18.720 : Fast matching:Failed to load input Image
+11:42:18.881 : Fast matching: loading image: time elapsed: 10
+11:42:19.930 : Fast matching:processing: time elapsed: 1059
+11:42:25.292 : Fast matching: loading image: time elapsed: 9
+11:42:26.022 : Fast matching:processing: time elapsed: 739
+11:42:26.371 : Fast matching: loading image: time elapsed: 10
+11:42:26.852 : Fast matching:processing: time elapsed: 491
+11:42:27.357 : Fast matching:Failed to load input Image
+11:42:27.514 : Fast matching: loading image: time elapsed: 10
+11:42:28.554 : Fast matching:processing: time elapsed: 1050
+11:42:34.155 : Fast matching: loading image: time elapsed: 13
+11:42:34.896 : Fast matching:processing: time elapsed: 754
+11:42:35.249 : Fast matching: loading image: time elapsed: 10
+11:42:35.743 : Fast matching:processing: time elapsed: 505
+11:42:36.255 : Fast matching:Failed to load input Image
+11:42:36.419 : Fast matching: loading image: time elapsed: 10
+11:42:37.486 : Fast matching:processing: time elapsed: 1077
+11:43:15.071 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:43:15.071 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:43:15.071 : MiaImage2QImage:Failed to load input Image
+11:43:15.071 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:43:15.071 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:43:15.071 : MiaImage2QImage:Failed to load input Image
+11:43:15.071 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:43:15.071 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:43:15.071 : MiaImage2QImage:Failed to load input Image
+11:43:15.075 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:43:15.075 : MiaThresholding:Failed to load input Image
+11:43:15.075 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:43:15.075 : MiaThresholding:Failed to load input Image
+11:43:15.075 : MiaImage2QImage:Failed to load input Image
+11:43:15.075 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:43:15.075 : MiaThresholding:Failed to load input Image
+11:43:15.075 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:43:15.075 : MiaThresholding:Failed to load input Image
+11:43:15.075 : MiaImage2QImage:Failed to load input Image
+11:43:15.075 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:43:15.075 : MiaThresholding:Failed to load input Image
+11:43:15.075 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:43:15.075 : MiaThresholding:Failed to load input Image
+11:43:15.075 : MiaImage2QImage:Failed to load input Image
+11:43:15.640 : Distance Transform based on 3D balls:Failed to load input Image
+11:43:15.640 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:43:15.640 : MiaOrthogonalSlicer:Failed to load input Image
+11:43:15.640 : Distance Transform based on 3D balls:Failed to load input Image
+11:43:15.640 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:43:15.640 : MiaOrthogonalSlicer:Failed to load input Image
+11:43:15.640 : Distance Transform based on 3D balls:Failed to load input Image
+11:43:15.640 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:43:15.640 : MiaOrthogonalSlicer:Failed to load input Image
+11:43:15.640 : Distance Transform based on 3D balls:Failed to load input Image
+11:43:15.640 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:43:15.640 : MiaOrthogonalSlicer:Failed to load input Image
+11:43:15.640 : MiaImage2QImage:Failed to load input Image
+11:43:15.640 : Distance Transform based on 3D balls:Failed to load input Image
+11:43:15.640 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:43:15.640 : MiaOrthogonalSlicer:Failed to load input Image
+11:43:15.640 : MiaImage2QImage:Failed to load input Image
+11:43:15.640 : Distance Transform based on 3D balls:Failed to load input Image
+11:43:15.640 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:43:15.640 : MiaOrthogonalSlicer:Failed to load input Image
+11:43:15.641 : MiaImage2QImage:Failed to load input Image
+11:43:15.641 : MiaImage2QImage:change Window Settings WL:128 WW:256
+11:43:15.641 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:43:15.641 : MiaImage2QImage:Failed to load input Image
+11:43:15.641 : MiaImage2QImage:change Window Settings WL:128 WW:256
+11:43:15.642 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:43:15.642 : MiaImage2QImage:Failed to load input Image
+11:43:15.642 : MiaImage2QImage:change Window Settings WL:128 WW:256
+11:43:15.642 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:43:15.642 : MiaImage2QImage:Failed to load input Image
+11:43:15.645 : MiaImage2QImage:change Window Settings WL:150 WW:300
+11:43:15.645 : MiaOrthogonalSliceraxial:Failed to run the operation
+11:43:15.645 : MiaImage2QImage:Failed to load input Image
+11:43:15.645 : MiaImage2QImage:change Window Settings WL:150 WW:300
+11:43:15.645 : MiaOrthogonalSlicercoronal:Failed to run the operation
+11:43:15.645 : MiaImage2QImage:Failed to load input Image
+11:43:15.645 : MiaImage2QImage:change Window Settings WL:150 WW:300
+11:43:15.645 : MiaOrthogonalSlicersaggital:Failed to run the operation
+11:43:15.645 : MiaImage2QImage:Failed to load input Image
+11:43:18.864 : Distance Transform based on 3D balls:Failed to load input Image
+11:43:18.864 : Threshold based Sparse Field Level Set:Failed to load input Image
+11:43:18.864 : :Failed to load input Image
+11:54:20.365 : Logging End
+00:31:37.059 : Logging Start
+00:31:47.504 : Logging End
+12:24:18.226 : Logging Start
+12:24:21.649 : Logging End
+12:26:25.722 : Logging Start
+12:26:38.382 : Logging End
+12:32:21.745 : Logging Start
+12:32:39.002 : MiaImage2QImage:change Window Settings WL:128 WW:256
+12:32:39.006 : MiaImage2QImage:change Window Settings WL:128 WW:256
+12:32:39.006 : MiaImage2QImage:change Window Settings WL:128 WW:256
+12:32:39.010 : MiaImage2QImage:change Window Settings WL:127.5 WW:255
+12:32:39.013 : MiaImage2QImage:change Window Settings WL:127.5 WW:255
+12:32:39.013 : MiaImage2QImage:change Window Settings WL:127.5 WW:255
+12:32:42.418 : Curved MPR module:Failed to load input Image
+12:32:42.418 : Curved MPR module:Failed to load input Image
+12:32:42.418 : MiaImage2QImage:Failed to load input Image
+12:32:42.418 : MiaObliquMPRSlicer:Failed to load input Image
+12:32:42.418 : MiaObliquMPRSlicer:Failed to load input Image
+12:32:42.418 : MiaObliquMPRSlicer:Failed to load input Image
+12:32:42.418 : MiaImage2QImage:Failed to load input Image
+12:32:42.418 : centerline tracking module:Failed to load input Image
+12:32:42.423 : Intensity mapping:Failed to load input Image
+12:32:42.423 : Multi-input Intensity mapping:Failed to load input Image
+12:32:42.423 : Threshold based Sparse Field Level Set:Failed to load input Image
+12:32:42.423 : MiaOrthogonalSlicer:Failed to load input Image
+12:32:42.423 : Intensity mapping:Failed to load input Image
+12:32:42.423 : Multi-input Intensity mapping:Failed to load input Image
+12:32:42.423 : Threshold based Sparse Field Level Set:Failed to load input Image
+12:32:42.423 : MiaOrthogonalSlicer:Failed to load input Image
+12:32:42.423 : Intensity mapping:Failed to load input Image
+12:32:42.423 : Multi-input Intensity mapping:Failed to load input Image
+12:32:42.423 : Threshold based Sparse Field Level Set:Failed to load input Image
+12:32:42.423 : MiaOrthogonalSlicer:Failed to load input Image
+12:32:42.423 : Intensity mapping:Failed to load input Image
+12:32:42.423 : Multi-input Intensity mapping:Failed to load input Image
+12:32:42.423 : Threshold based Sparse Field Level Set:Failed to load input Image
+12:32:42.423 : MiaOrthogonalSlicer:Failed to load input Image
+12:32:42.423 : MiaImage2QImage:Failed to load input Image
+12:32:42.424 : Intensity mapping:Failed to load input Image
+12:32:42.424 : Multi-input Intensity mapping:Failed to load input Image
+12:32:42.424 : Threshold based Sparse Field Level Set:Failed to load input Image
+12:32:42.424 : MiaOrthogonalSlicer:Failed to load input Image
+12:32:42.424 : MiaImage2QImage:Failed to load input Image
+12:32:42.424 : Intensity mapping:Failed to load input Image
+12:32:42.424 : Multi-input Intensity mapping:Failed to load input Image
+12:32:42.424 : Threshold based Sparse Field Level Set:Failed to load input Image
+12:32:42.424 : MiaOrthogonalSlicer:Failed to load input Image
+12:32:42.424 : MiaImage2QImage:Failed to load input Image
+12:32:42.425 : MiaImage2QImage:change Window Settings WL:128 WW:256
+12:32:42.428 : MiaImage2QImage:change Window Settings WL:128 WW:256
+12:32:42.428 : MiaImage2QImage:change Window Settings WL:128 WW:256
+12:32:42.430 : MiaImage2QImage:change Window Settings WL:127.5 WW:255
+12:32:42.433 : MiaImage2QImage:change Window Settings WL:127.5 WW:255
+12:32:42.433 : MiaImage2QImage:change Window Settings WL:127.5 WW:255
+12:32:42.447 : Intensity mapping:Failed to load input Image
+12:32:42.447 : Multi-input Intensity mapping:Failed to load input Image
+12:32:42.447 : Threshold based Sparse Field Level Set:Failed to load input Image
+12:32:42.447 : MiaOrthogonalSlicer:Failed to load input Image
+12:32:42.447 : Intensity mapping:Failed to load input Image
+12:32:42.447 : Multi-input Intensity mapping:Failed to load input Image
+12:32:42.447 : Threshold based Sparse Field Level Set:Failed to load input Image
+12:32:42.447 : MiaOrthogonalSlicer:Failed to load input Image
+12:32:42.447 : Intensity mapping:Failed to load input Image
+12:32:42.447 : Multi-input Intensity mapping:Failed to load input Image
+12:32:42.447 : Threshold based Sparse Field Level Set:Failed to load input Image
+12:32:42.447 : MiaOrthogonalSlicer:Failed to load input Image
+12:32:42.447 : Intensity mapping:Failed to load input Image
+12:32:42.447 : Multi-input Intensity mapping:Failed to load input Image
+12:32:42.447 : Threshold based Sparse Field Level Set:Failed to load input Image
+12:32:42.447 : :Failed to load input Image
+12:32:42.456 : Curved MPR module:Failed to load input Image
+12:32:42.456 : MiaImage2QImage:Failed to load input Image
+12:32:42.456 : MiaObliquMPRSlicer:Failed to load input Image
+12:32:42.456 : MiaImage2QImage:Failed to load input Image
+12:33:04.397 : Logging End
+12:34:02.164 : Logging Start
+12:34:18.682 : MiaImage2QImage:change Window Settings WL:128 WW:256
+12:34:18.687 : MiaImage2QImage:change Window Settings WL:128 WW:256
+12:34:18.687 : MiaImage2QImage:change Window Settings WL:128 WW:256
+12:34:18.690 : MiaImage2QImage:change Window Settings WL:127.5 WW:255
+12:34:18.694 : MiaImage2QImage:change Window Settings WL:127.5 WW:255
+12:34:18.694 : MiaImage2QImage:change Window Settings WL:127.5 WW:255
+12:34:21.692 : Distance Transform based on 3D balls:Failed to load input Image
+12:34:21.693 : Threshold based Sparse Field Level Set:Failed to load input Image
+12:34:21.693 : MiaOrthogonalSlicer:Failed to load input Image
+12:34:21.693 : Distance Transform based on 3D balls:Failed to load input Image
+12:34:21.693 : Threshold based Sparse Field Level Set:Failed to load input Image
+12:34:21.693 : MiaOrthogonalSlicer:Failed to load input Image
+12:34:21.693 : Distance Transform based on 3D balls:Failed to load input Image
+12:34:21.693 : Threshold based Sparse Field Level Set:Failed to load input Image
+12:34:21.693 : MiaOrthogonalSlicer:Failed to load input Image
+12:34:21.693 : Distance Transform based on 3D balls:Failed to load input Image
+12:34:21.693 : Threshold based Sparse Field Level Set:Failed to load input Image
+12:34:21.693 : MiaOrthogonalSlicer:Failed to load input Image
+12:34:21.693 : MiaImage2QImage:Failed to load input Image
+12:34:21.693 : Distance Transform based on 3D balls:Failed to load input Image
+12:34:21.693 : Threshold based Sparse Field Level Set:Failed to load input Image
+12:34:21.693 : MiaOrthogonalSlicer:Failed to load input Image
+12:34:21.693 : MiaImage2QImage:Failed to load input Image
+12:34:21.693 : Distance Transform based on 3D balls:Failed to load input Image
+12:34:21.693 : Threshold based Sparse Field Level Set:Failed to load input Image
+12:34:21.693 : MiaOrthogonalSlicer:Failed to load input Image
+12:34:21.693 : MiaImage2QImage:Failed to load input Image
+12:34:21.694 : MiaImage2QImage:change Window Settings WL:128 WW:256
+12:34:21.697 : MiaImage2QImage:change Window Settings WL:128 WW:256
+12:34:21.697 : MiaImage2QImage:change Window Settings WL:128 WW:256
+12:34:21.699 : MiaImage2QImage:change Window Settings WL:127.5 WW:255
+12:34:21.702 : MiaImage2QImage:change Window Settings WL:127.5 WW:255
+12:34:21.702 : MiaImage2QImage:change Window Settings WL:127.5 WW:255
+12:34:57.872 : Logging End
